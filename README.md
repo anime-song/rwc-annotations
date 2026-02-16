@@ -42,6 +42,29 @@ In `02_annotations_derived/`, we collect conversion scripts and the converted an
 Contains textual metadata on the tracks including tempo information (where available) and genre information.
 Furthermore, it provides manually created annotations for the music start and ending for each track.
 
+The columns are:
+
+- **RWCID**: Unique identifier. Add ".wav" yields the filename
+- **CollID**: Collection part of the `RWCID` {"C", "G", "P", "J", "R"}
+- **PieceNo**: Numeric part of the `RWCID`
+- **CDNo**: Legacy CD number
+- **TrackNo**: Legacy track number
+- **Title**: Title of the track
+- **Artist**: Artist of the track
+- **SingerInformation**: Details on singer gender and constellation
+- **SingingLanguage**: Singing language
+- **Tempo**: Tempo of the track
+- **Variation**: Instrument/band variation (relevant for RWC-J)
+- **LiveInstruments**: List of live instruments in the track
+- **DrumInformation**: Details on the drums, e.g., if sequencer was used or live drum playing
+- **Composer**: Composer of the piece
+- **CompositionType**: Type of composition (for RWC-C)
+- **GenreMain**: Main genre
+- **GenreSub**: Sub genre
+- **audio_start**: Start of the music in the track (manual annotation)
+- **audio_end**: End of the music in the track (manual annotation)
+- **duration**: Duration from the wav file
+
 ## 🧪 Data Integrity Test
 
 We use `pytest` to check for common errors in the annotations files. Simple tests check for formatting issues (e.g., check for the expected number of columns in the CSV), more advanced tests check for annotation errors (e.g., subsequent beats are wrongly numbered). These tests are running after each push to the repository.

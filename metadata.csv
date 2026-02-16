@@ -1,329 +1,329 @@
-﻿CollID;PieceNo;CDNo;TrackNo;Title;Artist;SingerInformation;SingingLanguage;Duration;Tempo;Variation;LiveInstruments;DrumInformation;Composer;CompositionStyle;Category_new;Genre;Subgenre
-P;1;1;1;Eien no replica;Kazuo Nishi;Male;Japanese;03:29;135.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;2;1;2;Magic in your eyes;Hiromi Yoshii;Female;Japanese;03:42;100.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;3;1;3;HORO;MIT;Vocal group (1 male + 1 female);Japanese;03:15;111.0;;;Drum sequences;;;Vocal;Popular;J-pop
-P;4;1;4;Spice of Life;Hisayoshi Kazato;Male;Japanese;04:02;86.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;5;1;5;Koino Ver.2.4;Eves;Vocal group (4 female);Japanese;03:48;135.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;6;1;6;Funky Life;Oriken;Male;Japanese;03:26;120.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;7;1;7;PROLOGUE;Tomomi Ogata;Female;Japanese;04:58;122.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;8;1;8;Jinsei konnamono;fevers;Vocal group (2 female);Japanese;03:12;127.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;9;1;9;Doukoku;Kazuo Nishi;Male;Japanese;04:37;70.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;10;1;10;Getting Over;Brakes;Vocal group (3 female);Japanese;03:35;125.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;11;1;11;Ienai;Hisayoshi Kazato;Male;Japanese;04:27;90.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;12;1;12;KAGE-ROU;Kazuo Nishi;Male;Japanese;03:24;120.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;13;1;13;Catch ball;Konbu;Female;Japanese;03:39;103.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;14;1;14;Karehairo no Twilight;Rin;Female;Japanese;03:54;88.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;15;1;15;old fashioned;Katsuyuki Ozawa;Male;Japanese;02:42;132.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;16;1;16;Game of Love;Hiromi Yoshii;Female;Japanese;04:22;122.0;;Gt, Bs;Drum loops;;;Vocal;Popular;J-pop
-P;17;2;1;Anata to aete;Hiromi Yoshii;Female;Japanese;04:01;97.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;18;2;2;True Heart;Tomomi Ogata;Female;Japanese;04:14;112.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;19;2;3;COOL Motion;Hisayoshi Kazato;Male;Japanese;04:49;130.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;20;2;4;Tokimeki no syunkan;Eri Ichikawa;Female;Japanese;04:10;134.0;;;Drum sequences;;;Vocal;Popular;J-pop
-P;21;2;5;Feeling In My Heart;Rin;Female;Japanese;04:28;98.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;22;2;6;Koi ni ochiru jikan ni kansuru kousatsu;Kazuo Nishi;Male;Japanese;03:29;135.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;23;2;7;SHAKE;MAPS;Vocal group (2 male);Japanese;03:21;132.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;24;2;8;it's all right;Hisayoshi Kazato;Male;Japanese;04:00;130.0;;;Drum sequences;;;Vocal;Popular;J-pop
-P;25;2;9;tell me;Tomomi Ogata;Female;Japanese;04:16;103.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;26;2;10;aozora sanpo michi;Tomoko Nitta;Female;Japanese;03:27;158.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;27;2;11;stay;Shingo Katsuta;Male;Japanese;05:18;124.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;28;2;12;Fly away;Tomomi Ogata;Female;Japanese;04:10;109.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;29;2;13;One Two STEP;Kazuo Nishi;Male;Japanese;03:35;103.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;30;2;14;syounen no omoi;Mitsuru Tanimoto;Male;Japanese;03:16;104.0;;;Drum sequences;;;Vocal;Popular;J-pop
-P;31;2;15;Moving Round and Round;Yuuichi Nagayama;Male;Japanese;04:10;129.0;;;Drum loops;;;Vocal;Popular;J-pop
-P;32;2;16;what could I do for you;Masaki Kuehara;Male;Japanese;04:12;125.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;33;3;1;DREAM MAGIC;Hiromi Yoshii;Female;Japanese;04:47;108.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;34;3;2;Hitoyo no yume;Hiromi Yoshii;Female;Japanese;03:27;93.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;35;3;3;Midarana kami no moushigo;Hiromi Yoshii;Female;Japanese;03:13;170.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;36;3;4;over and over;Kazuo Nishi;Male;Japanese;05:16;135.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;37;3;5;Replica;Yoshinori Hatae;Male;Japanese;03:59;184.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;38;3;6;1999;Kousuke Morimoto;Male;Japanese;04:35;125.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;39;3;7;SPUL;Kousuke Morimoto;Male;Japanese;04:48;73.0;;Gt, Bs, HH;Drum sequences;;;Vocal;Popular;J-pop
-P;40;3;8;promise;Kazuo Nishi;Male;Japanese;03:46;122.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;41;3;9;Non Stop Driving;Katsuyuki Ozawa;Male;Japanese;02:50;200.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;42;3;10;Fly to the moon;Kousuke Morimoto;Male;Japanese;04:08;125.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;43;3;11;Centimeter no kodoku;Kazuo Nishi;Male;Japanese;03:24;163.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;44;3;12;REAL na 5 hun;Kousuke Morimoto;Male;Japanese;04:06;124.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;45;3;13;Hajimari;Kousuke Morimoto;Male;Japanese;03:42;77.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;46;3;14;Senro wa tsuzukuyo;Kousuke Morimoto;Male;Japanese;03:19;168.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;47;3;15;Deaetakara;Satoshi Kumasaka;Male;Japanese;03:30;94.0;;Gt, Gt, Bs, Dr, Org;Live drums;;;Vocal;Popular;J-pop
-P;48;3;16;Syodoubutsu;Hiroshi Sekiya;Male;Japanese;04:29;86.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;49;4;1;Sekai no mikata;Hiroshi Sekiya;Male;Japanese;04:35;100.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;50;4;2;Mrs. Maril;Rin;Female;Japanese;03:15;114.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;51;4;3;Modoranai natsu;Hiroshi Sekiya;Male;Japanese;06:07;104.0;;Gt, Gt, Bs, Dr, Pf;Live drums;;;Vocal;Popular;J-pop
-P;52;4;4;Haru ga kurukara;Tomomi Ogata;Female;Japanese;03:45;140.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;53;4;5;Ashita wa;Rin;Female;Japanese;03:39;132.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;54;4;6;Harukana omoi;Rin;Female;Japanese;03:42;125.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;55;4;7;First Love;Akiko Kaburagi;Female;Japanese;04:09;74.0;;Gt, Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;56;4;8;I've got a mail;Masashi Hashimoto;Male;Japanese;05:22;74.0;;Gt, Bs;Drum loops;;;Vocal;Popular;J-pop
-P;57;4;9;Stay with me;Masashi Hashimoto;Male;Japanese;04:27;70.0;;;Drum sequences;;;Vocal;Popular;J-pop
-P;58;4;10;Silver shoes;Rin;Female;Japanese;03:45;118.0;;;Drum loops;;;Vocal;Popular;J-pop
-P;59;4;11;Tenshi no utatane;Rin;Female;Japanese;03:25;98.0;;Gt, Tp;Drum loops;;;Vocal;Popular;J-pop
-P;60;4;12;Kumorizora;Yuzu Iijima;Female;Japanese;04:03;148.0;;Gt, Gt, Bs;Drum loops;;;Vocal;Popular;J-pop
-P;61;4;13;FOR YOU;Kazuo Nishi;Male;Japanese;04:43;121.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;62;4;14;Be with me Now;Rin;Female;Japanese;03:11;81.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;63;4;15;Power of mind;Reiko Sato;Female;Japanese;04:11;126.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;64;4;16;So Long;Kousuke Morimoto;Male;Japanese;04:52;100.0;;Gt, Bs;Drum sequences;;;Vocal;Popular;J-pop
-P;65;5;1;Tanabata;Makiko Hattori;Female;Japanese;03:52;76.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;66;5;2;Mousugu natsu ga kuru;M & Y;Vocal group (2 female);Japanese;05:20;76.0;;Gt, HH, Pf;Drum sequences;;;Vocal;Popular;J-pop
-P;67;5;3;Tokei no hayasa wa;Makiko Hattori;Female;Japanese;04:10;88.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;68;5;4;Nichiyoubi;Makiko Hattori;Female;Japanese;04:54;92.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;J-pop
-P;69;5;5;Gin no sora;Hiromi Yoshii;Female;Japanese;06:00;62.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-P;70;5;6;Miageta sora wa;Tamako Matsuzaka;Female;Japanese;04:06;104.0;;Gt, Bs, Dr, Pf;Live drums;;;Vocal;Popular;J-pop
-P;71;5;7;Tsuki no youni;Hiromi Yoshii;Female;Japanese;04:46;70.0;;Gt, Pf;Without drums;;;Vocal;Popular;J-pop
-P;72;5;8;Heart to Hurt;Kousuke Morimoto;Male;Japanese;03:21;76.0;;Pf, Vc;Without drums;;;Vocal;Popular;J-pop
-P;73;5;9;Miss Maria;Kazuo Nishi;Male;Japanese;03:16;144.0;;Pf, Vc;Without drums;;;Vocal;Popular;J-pop
-P;74;5;10;Kimi no iro;Kousuke Morimoto;Male;Japanese;03:14;94.0;;Gt;Without drums;;;Vocal;Popular;J-pop
-P;75;5;11;Toui machi e;Hiromi Yoshii;Female;Japanese;03:21;108.0;;Pf;Without drums;;;Vocal;Popular;J-pop
-P;76;5;12;Chikai;Kousuke Morimoto;Male;Japanese;03:50;70.0;;Gt;Without drums;;;Vocal;Popular;J-pop
-P;77;5;13;Aishiteru;Makiko Hattori;Female;Japanese;03:56;120.0;;Gt, Pf;Without drums;;;Vocal;Popular;J-pop
-P;78;5;14;Kumo;Masaki Kuehara;Male;Japanese;04:21;75.0;;Gt;Without drums;;;Vocal;Popular;J-pop
-P;79;5;15;Together;Tomomi Ogata;Female;Japanese;04:28;92.0;;;Without drums;;;Vocal;Popular;J-pop
-P;80;5;16;Sagashimono;Tomomi Ogata;Female;Japanese;03:39;80.0;;;Without drums;;;Vocal;Popular;J-pop
-P;81;6;1;How Deep Is Your Love?;Donna Burke;Female;English;03:50;90.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;82;6;2;Once in a life time;Shinya Iguchi;Male;English;05:37;88.0;;Gt, Dr;Live drums;;;Vocal;Popular;Pop
-P;83;6;3;Doing That Thing;Jeff Manning;Male;English;03:37;140.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;84;6;4;Someday;Shinya Iguchi;Male;English;04:40;138.0;;Gt, Dr;Live drums;;;Vocal;Popular;Pop
-P;85;6;5;Waiting for the moment;Jeff Manning;Male;English;03:30;98.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;86;6;6;Angel Baby;Betty;Female;English;04:17;80.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;87;6;7;I think of you;Jeff Manning;Male;English;04:51;90.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;88;6;8;Woman Like You;Shinya Iguchi;Male;English;04:09;120.0;;Gt, Dr;Live drums;;;Vocal;Popular;Pop
-P;89;6;9;Life Is What You Make It To Be;Donna Burke;Female;English;03:43;134.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;90;6;10;Don't Say Good bye;Shinya Iguchi;Male;English;04:37;127.0;;Gt, Dr;Live drums;;;Vocal;Popular;Pop
-P;91;7;1;Change Of Heart;Donna Burke;Female;English;03:43;124.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;92;7;2;I'll be there for you;Betty;Female;English;03:40;134.0;;;Drum sequences;;;Vocal;Popular;Pop
-P;93;7;3;Sweet Dreams;Donna Burke;Female;English;04:18;90.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;94;7;4;Life;Betty;Female;English;03:43;78.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;95;7;5;Feel;Jeff Manning;Male;English;03:52;161.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;Pop
-P;96;7;6;Weekend;Betty;Female;English;04:40;130.0;;;Drum loops;;;Vocal;Popular;Pop
-P;97;7;7;Don't Lie To Me;Donna Burke;Female;English;04:03;91.0;;Gt;Drum sequences;;;Vocal;Popular;Pop
-P;98;7;8;31 BLUES;Jeff Manning;Male;English;03:31;107.0;;Gt, Bs, Dr;Live drums;;;Vocal;Popular;Pop
-P;99;7;9;Once and For All;Shinya Iguchi;Male;English;05:17;73.0;;Gt;Without drums;;;Vocal;Popular;Pop
-P;100;7;10;No Regrets;Shinya Iguchi;Male;English;04:53;80.0;;Gt;Drum loops;;;Vocal;Popular;Pop
-R;1;1;1;Chou chou;Hiromi Asakawa;Female;Japanese;02:07;120.0;;Gt, Bs, HH;Drum sequences;;;Vocal;Popular;J-pop
-R;2;1;2;Musunde hiraite;Hiromi Asakawa;Female;Japanese;02:10;104.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-R;3;1;3;Akai kutsu;Hiromi Asakawa;Female;Japanese;02:58;75.0;;Gt, Bs, HH;Drum sequences;;;Vocal;Popular;J-pop
-R;4;1;4;Nanatsu no ko;Hiromi Asakawa;Female;Japanese;02:08;70.0;;;Drum sequences;;;Vocal;Popular;J-pop
-R;5;1;5;Momotaro;Hiromi Asakawa;Female;Japanese;02:10;130.0;;Gt;Drum sequences;;;Vocal;Popular;J-pop
-R;6;1;6;Jingle Bells;Donna Burke;Female;English;02:00;115.0;;Gt, Bs, HH;Drum sequences;;;Vocal;Popular;American Christmas Song / Christmas music
-R;7;1;7;Mary Had A Little Lamb;Donna Burke;Female;English;02:04;100.0;;Gt, Bs, HH;Drum sequences;;;Vocal;Popular;American Nursery Song / Nursery rhymes
-R;8;1;8;I've Been Workin' On The Railroad;Jeff Manning;Male;English;02:06;130.0;;Gt, HH;Drum sequences;;;Vocal;Popular;American Folk Song
-R;9;1;9;Home on the Range;Jeff Manning;Male;English;02:34;100.0;;Gt;Drum sequences;;;Vocal;Popular;American Folk Song
-R;10;1;10;Yankee Doodle;Jeff Manning;Male;English;02:25;116.0;;Gt, HH;Drum sequences;;;Vocal;Popular;American Nursery Song
-R;11;1;11;John Brown Had A Little Indian;Donna Burke;Female;English;02:10;120.0;;Gt;Drum sequences;;;Vocal;Popular;American Nursery Song
-R;12;1;12;When the Saints Go Marching in;Jeff Manning;Male;English;02:04;200.0;;Gt;Drum sequences;;;Vocal;Popular;American traditional black spiritual
-R;13;1;13;Silent Night;Donna Burke;Female;English;01:58;70.0;;;Drum sequences;;;Vocal;Popular;Christmas Carol
-R;14;1;14;Turkey In The Straw;Donna Burke;Female;English;02:04;180.0;;Gt;Drum sequences;;;Vocal;Popular;American Folk Song
-R;15;1;15;My Bonny;Jeff Manning;Male;English;01:46;80.0;;;Drum sequences;;;Vocal;Popular;Scottisch Folk Song
-C;1;1;1;"Symphony No.94 in G major, Hob.I:94, ""The Surprise"", 1st mvmt.";Tokyo City Philharmonic Orchestra;;;08:24;;;Orch;;Haydn, Franz Joseph;Symphony;Symphony;Classical;Classical
-C;2;1;2;Symphony No.40 in G minor, KV 550, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;07:39;;;Orch;;Mozart, Wolfgang Amadeus;Symphony;Symphony;Classical;Classical
-C;3;1;3;Symphony No.5 in C minor, Op.67, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;07:15;;;Orch;;Beethoven, Ludwig van;Symphony;Symphony;Classical;Classical
-C;4;1;4;"Symphony No.6 in B minor, Op.74, ""Pathétique"", 4th mvmt.";Tokyo City Philharmonic Orchestra;;;09:52;;;Orch;;Tchaikovsky, Pyotr Ilich;Symphony;Symphony;Classical;Romantic
-C;5;1;5;Violin Concerto No.5 in A major, KV 219, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;10:06;;;Vn, Orch;;Mozart, Wolfgang Amadeus;Concerto;Concerto;Classical;Classical
-C;6;1;6;Piano Concerto No.1 in E minor, Op.11, 2nd mvmt.;Tokyo City Philharmonic Orchestra;;;10:00;;;Pf, Orch;;Chopin, Frédéric François;Concerto;Concerto;Classical;Romantic
-C;7;2;1;Brandenburg Concerto No.5 in D major, BWV 1050, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;10:01;;;Orch;;Bach, Johann Sebastian;Concerto;Orchestral;Classical;Baroque
-C;8;2;2;"""Le Nozze di Figaro"" (The Marriage of Figaro), KV 492, Overture";Tokyo City Philharmonic Orchestra;;;04:15;;;Orch;;Mozart, Wolfgang Amadeus;Theatre Music;Orchestral;Classical;Classical
-C;9;2;3;"""Tristan und Isolde"", Prelude and Liebestod";Tokyo City Philharmonic Orchestra;;;18:01;;;Orch;;Wagner, Richard;Theatre Music;Orchestral;Classical;Romantic
-C;10;2;4;"""An der Schönen Blauen Donau"" (Blue Danube Waltz), Op.314";Tokyo City Philharmonic Orchestra;;;07:42;;;Orch;;Strauss II, Johann;Waltz;Orchestral;Classical;Romantic
-C;11;2;5;Passacaglia and Fugue in C minor, BWV 582;Tetsuya Kan;;;12:36;;;Org;;Bach, Johann Sebastian;Passacaglias, Fugues for Organ;Solo;Classical;Baroque
-C;12;3;1;"""The Musical Offering"", BWV 1079, Ricercare à 6";Wood Land Notes;;;06:27;;;;;Bach, Johann Sebastian;Canon;Chamber;Classical;Baroque
-C;13;3;2;String Quartet No.19 in C major, KV 465, 1st mvmt.;Wood Land Notes;;;08:30;;;Vn,Vn, Va, Vc;;Mozart, Wolfgang Amadeus;String Quartet;Chamber;Classical;Classical
-C;14;3;3;String Quartet No.14 in C# minor, Op.131, 5th mvmt.;Wood Land Notes;;;06:37;;;Vn,Vn, Va, Vc;;Beethoven, Ludwig van;String Quartet;Chamber;Classical;Classical
-C;15;3;4;String Quartet No.2 in D major, 3rd mvmt.;Wood Land Notes;;;07:43;;;Vn,Vn, Va, Vc;;Borodin, Alexander;String Quartet;Chamber;Classical;Romantic
-C;16;3;5;Clarinet Quintet in A major, KV 581, 1st mvmt.;Wood Land Notes;;;09:05;;;Cl, Vn,Vn, Va, Vc;;Mozart, Wolfgang Amadeus;Clarinet Quintet;Chamber;Classical;Classical
-C;17;3;6;Clarinet Quintet in B minor, Op.115, 3rd mvmt.;Wood Land Notes;;;04:57;;;Cl, Vn,Vn, Va, Vc;;Brahms, Johannes;Clarinet Quintet;Chamber;Classical;Romantic
-C;18;3;7;Horn Trio in Eb major, Op.40, 2nd mvmt.;Wood Land Notes;;;07:42;;;Hn, Vn, Pf;;Brahms, Johannes;Horn Trio;Chamber;Classical;Romantic
-C;19;4;1;"Piano Trio No.7 in Bb major, Op.97, ""Archduke"", 1st mvmt.";Wood Land Notes;;;09:33;;;Pf, Vn, Vc;;Beethoven, Ludwig van;Piano Trio;Chamber;Classical;Classical
-C;20;4;2;Piano Trio No.1 in B major, Op.8, 1st mvmt.;Wood Land Notes;;;10:32;;;Pf, Vn, Vc;;Brahms, Johannes;Piano Trio;Chamber;Classical;Romantic
-C;21;4;3;"Piano Quintet in A major, Op.32/D.667, ""Trout"", 4th mvmt.";Wood Land Notes;;;08:10;;;Vn,Va, Vc, Db, Pf;;Schubert, Franz Peter;Piano Quintet;Chamber;Classical;Romantic
-C;22;4;4;Hungarian Dance No.5 in F# minor;Yuriko Furuichi & Yoshiko Kikuchi;;;02:25;;;Pf;;Brahms, Johannes;Piano 4 Hands;Solo;Classical;Romantic
-C;23A;4;5;"Suite ""Ma Mère l'Oye"" (Mother Goose), 1. Pavane de la Belle au Bois Dormant";Yuriko Furuichi & Yoshiko Kikuchi;;;01:20;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Solo;Classical;Romantic
-C;23B;4;6;"Suite ""Ma Mère l'Oye"" (Mother Goose), 2. Petit Poucet";Yuriko Furuichi & Yoshiko Kikuchi;;;02:45;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Solo;Classical;Romantic
-C;23C;4;7;"Suite ""Ma Mère l'Oye"" (Mother Goose), 3. Laideronnette, Impératrice des Pagodes";Yuriko Furuichi & Yoshiko Kikuchi;;;03:25;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Solo;Classical;Romantic
-C;23D;4;8;"Suite ""Ma Mère l'Oye"" (Mother Goose), 4. Les Entretiens de la Belle et de la Bête";Yuriko Furuichi & Yoshiko Kikuchi;;;04:09;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Solo;Classical;Romantic
-C;23E;4;9;"Suite ""Ma Mère l'Oye"" (Mother Goose), 5. Le Jardin Féerique";Yuriko Furuichi & Yoshiko Kikuchi;;;02:50;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Solo;Classical;Romantic
-C;24A;4;10;The Anna Magdalena Bach Notebooks, 1. Menuet in G major;Atsuko Watanabe;;;01:26;;;Hp;;Bach, Johann Sebastian;Minuet for Keyboard;Solo;Classical;Baroque
-C;24B;4;11;The Anna Magdalena Bach Notebooks, 2. Menuet in G minor;Atsuko Watanabe;;;01:29;;;Hp;;Bach, Johann Sebastian;Minuet for Keyboard;Solo;Classical;Baroque
-C;24C;4;12;The Anna Magdalena Bach Notebooks, 8. Musette in D major;Atsuko Watanabe;;;00:52;;;Hp;;Bach, Johann Sebastian;Musette for Keyboard;Solo;Classical;Baroque
-C;25A;4;13;The Well-Tempered Clavier, Book 1, No.1 in C major, BWV 846, Prelude;Atsuko Watanabe;;;02:03;;;Hp;;Bach, Johann Sebastian;Prelude for Keyboard;Solo;Classical;Baroque
-C;25B;4;14;The Well-Tempered Clavier, Book 1, No.1 in C major, BWV 846, Fugue;Atsuko Watanabe;;;02:11;;;Hp;;Bach, Johann Sebastian;Fugue for Keyboard;Solo;Classical;Baroque
-C;25C;4;15;The Well-Tempered Clavier, Book 1, No.2 in C minor, BWV 847, Prelude;Atsuko Watanabe;;;01:31;;;Hp;;Bach, Johann Sebastian;Prelude for Keyboard;Solo;Classical;Baroque
-C;25D;4;16;The Well-Tempered Clavier, Book 1, No.2 in C minor, BWV 847, Fugue;Atsuko Watanabe;;;01:54;;;Hp;;Bach, Johann Sebastian;Fugue for Keyboard;Solo;Classical;Baroque
-C;26;5;1;Piano Sonata in A major, KV 331/300i, 1st mvmt.;Norio Shimizu;;;10:00;;;Pf;;Mozart, Wolfgang Amadeus;Piano Sonata;Solo;Classical;Classical
-C;27;5;2;"Variations on ""Ah Vous Dirai-je Maman"", KV 265/300e";Yuriko Furuichi;;;07:27;;;Pf;;Mozart, Wolfgang Amadeus;Variations for Piano;Solo;Classical;Classical
-C;28;5;3;"Piano Sonata No.23 in F minor, Op.57, ""Appasionata"", 1st mvmt.";Sarasa Watanabe;;;09:50;;;Pf;;Beethoven, Ludwig van;Piano Sonata;Solo;Classical;Classical
-C;29;5;4;"""Träumerei"" from Suite ""Kinderszenen"", Op.15";Norio Shimizu;;;02:25;;;Pf;;Schumann, Robert Alexander;Pieces for Piano;Solo;Classical;Romantic
-C;30;5;5;Nocturne No.2 in Eb major, Op.9 No.2;Yuriko Furuichi;;;04:02;;;Pf;;Chopin, Frédéric François;Nocturne for Piano;Solo;Classical;Romantic
-C;31;5;6;Etude in E major, Op.10 No.3;Miki Narai;;;04:16;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Solo;Classical;Romantic
-C;32;5;7;Etude in F minor, Op.25 No.2;Yuriko Furuichi;;;01:49;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Solo;Classical;Romantic
-C;33;5;8;"Polonaise No.6 in Ab major, Op.53, ""Héroïque""";Mutsuko Tajima;;;06:45;;;Pf;;Chopin, Frédéric François;Polonaise for Piano;Solo;Classical;Romantic
-C;34;5;9;"""La Campanella"" from ""Grandes Études de Paganini""";Naoko Matsuoka;;;05:09;;;Pf;;Liszt, Franz;Pieces for Piano;Solo;Classical;Romantic
-C;35A;5;10;Three Gymnopédies, No.1;Norio Shimizu;;;03:49;;;Pf;;Satie, Erik;Pieces for Piano;Solo;Classical;Romantic
-C;35B;5;11;Three Gymnopédies, No.2;Norio Shimizu;;;03:01;;;Pf;;Satie, Erik;Pieces for Piano;Solo;Classical;Romantic
-C;35C;5;12;Three Gymnopédies, No.3;Norio Shimizu;;;02:46;;;Pf;;Satie, Erik;Pieces for Piano;Solo;Classical;Romantic
-C;36;6;1;6 Sonatas and Partitas for Unaccompanied Violin No.6, Partita No.3 in E major, BWV 1006, 3. Gavotte en Rondeau;Michi Mizutori;;;03:32;;;Vn;;Bach, Johann Sebastian;Violin Partita;Solo;Classical;Baroque
-C;37;6;2;"Violin Sonata No.5 in F major, Op.24, ""Spring"", 3rd mvmt.";Michi Mizutori;;;01:17;;;Vn, Pf;;Beethoven, Ludwig van;Violin Sonata;SoloAccomp;Classical;Classical
-C;38;6;3;24 Caprices, Op.1 No.24 in A minor;Michi Mizutori;;;05:21;;;Vn;;Paganini, Niccolò;Caprices for Violin;Solo;Classical;Romantic
-C;39;6;4;Violin Sonata in A major, 4th mvmt.;Michi Mizutori;;;06:44;;;Vn, Pf;;Franck, César;Violin Sonata;SoloAccomp;Classical;Romantic
-C;40;6;5;"Meditation from ""Thaïs""";Michi Mizutori;;;05:06;;;Vn, Pf;;Massenet, Jules;Meditation for Violin and Piano;SoloAccomp;Classical;Romantic
-C;41;6;6;Cello Suite No.1 in G major, BWV 1007, 1. Prelude;Hitoshi Miyazawa;;;02:39;;;Vc;;Bach, Johann Sebastian;Cello Suite;Solo;Classical;Baroque
-C;42;6;7;"""Le Cygne"" from Suite ""Le Carnaval des Animaux""";Hitoshi Miyazawa;;;02:31;;;Vc, Pf;;Saint-Saëns, Camille;Fantasia for Cello and Piano;SoloAccomp;Classical;Romantic
-C;43;6;8;Sicilienne, Op.78;Hidehiko Watase;;;04:09;;;Fl, Pf;;Fauré, Gabriel;Siciliana for Flute and Piano;SoloAccomp;Classical;Romantic
-C;44;6;9;"""The Flight of the Bumble Bee""";Hidehiko Watase;;;01:03;;;Fl, Pf;;Rimski-Korsakov, Nikolay;Theatre Music Arrangement;SoloAccomp;Classical;Romantic
-C;45;6;10;"Air ""Ombra mai fu"" (Largo) from ""Serse"" (Xerxes)";Rihoko Yanagisawa;Female;Italian;02:49;;;Orch;;Handel, George Frideric;Theatre Music Arrangement;Vocal;Classical;Baroque
-C;46;6;11;"Air 14 (Queen of the Night's Air) ""Der Hölle Rache kocht in meinem Herzen"" from ""Die Zauberflöte"" (The Magic Flute), KV 620";Makiko Saito;Female;German;03:08;;;Orch;;Mozart, Wolfgang Amadeus;Theatre Music;Vocal;Classical;Classical
-C;47;6;12;"""Ständchen"" (Serenade) from ""Schwanengesang"", D.957";Asuka Ueda;Male;German;03:46;;;Pf;;Schubert, Franz Peter;Lieder;Vocal;Classical;Romantic
-C;48;6;13;"""Der Lindenbaum"" from ""Winterreise"", Op.89/D.911";Tomihiko Kotaka;Male;German;04:26;;;Pf;;Schubert, Franz Peter;Lieder;Vocal;Classical;Romantic
-C;49;6;14;"Air ""La donna è mobile qual piuma al vento"" from ""Rigoletto""";Ryosuke Hagino;Male;Italian;02:11;;;Orch;;Verdi, Giuseppe;Thatre Music Arrangment;Vocal;Classical;Romantic
-C;50;6;15;"Micaela's Air ""Je dis que rien ne m'épouvante"" from ""Carmen""";Hiromi Tohyama;Female;French;05:05;;;Orch;;Bizet, Georges;Thatre Music Arrangment;Vocal;Classical;Romantic
-J;1;1;1;Jive (Piano Solo);Makoto Nakamura;;;03:22;;Instrumentation 1;Pf;;;;Solo;Jazz;
-J;2;1;2;For Two (Piano Solo);Makoto Nakamura;;;06:15;;Instrumentation 1;Pf;;;;Solo;Jazz;
-J;3;1;3;Lounge Away (Piano Solo);Takao Nagai;;;02:38;;Instrumentation 1;Pf;;;;Solo;Jazz;
-J;4;1;4;Crescent Serenade (Piano Solo);Makoto Nakamura;;;02:47;;Instrumentation 1;Pf;;;;Solo;Jazz;
-J;5;1;5;Abyss (Piano Solo);Takao Nagai;;;03:08;;Instrumentation 1;Pf;;;;Solo;Jazz;
-J;6;1;6;Jive (Guitar Solo);Hiroo Chubachi;;;02:47;;Instrumentation 2;Gt;;;;Solo;Jazz;
-J;7;1;7;For Two (Guitar Solo);Hiroo Chubachi;;;03:36;;Instrumentation 2;Gt;;;;Solo;Jazz;
-J;8;1;8;Lounge Away (Guitar Solo);Satoshi Yamamoto;;;03:41;;Instrumentation 2;Gt;;;;Solo;Jazz;
-J;9;1;9;Crescent Serenade (Guitar Solo);Satoshi Yamamoto;;;03:38;;Instrumentation 2;Gt;;;;Solo;Jazz;
-J;10;1;10;Abyss (Guitar Solo);Hiroo Chubachi;;;03:20;;Instrumentation 2;Gt;;;;Solo;Jazz;
-J;11;1;11;Jive (Vib & Piano Duo);Masahiro Kanno & Takao Nagai;;;04:05;;Instrumentation 3;Vib, Pf;;;;Solo;Jazz;
-J;12;1;12;For Two (Flute & Piano Duo);Kazuma Ito & Hiroshi Haji;;;05:34;;Instrumentation 3;Fl, Pf;;;;JazzCombo;Jazz;
-J;13;1;13;Lounge Away (Vib & Piano Duo);Masahiro Kanno & Takao Nagai;;;03:47;;Instrumentation 3;Vib, Pf;;;;JazzCombo;Jazz;
-J;14;1;14;Crescent Serenade (Piano & Bass Duo);MN & NK;;;04:42;;Instrumentation 3;Pf, Bs;;;;JazzCombo;Jazz;
-J;15;1;15;Abyss (Piano & Bass Duo);MN & NK;;;04:32;;Instrumentation 3;Pf, Bs;;;;JazzCombo;Jazz;
-J;16;2;1;Jive (Piano Trio);Makoto Nakamura Trio;;;04:43;;Instrumentation 4;Pf, Bs, Dr;;;;JazzCombo;Jazz;
-J;17;2;2;For Two (Piano Trio);Makoto Nakamura Trio;;;06:51;;Instrumentation 4;Pf, Bs, Dr;;;;JazzCombo;Jazz;
-J;18;2;3;Lounge Away (Piano Trio);HIS Trio;;;05:22;;Instrumentation 4;Pf, Bs, Dr;;;;JazzCombo;Jazz;
-J;19;2;4;Crescent Serenade (Piano Trio);HIS Trio;;;05:15;;Instrumentation 4;Pf, Bs, Dr;;;;JazzCombo;Jazz;
-J;20;2;5;Abyss (Piano Trio);Takao Nagai Trio;;;05:41;;Instrumentation 4;Pf, Bs, Dr;;;;JazzCombo;Jazz;
-J;21;2;6;Jive (Piano Trio & Tp);Rick's;;;04:38;;Instrumentation 5;Pf, Bs, Dr, Tp;;;;JazzCombo;Jazz;
-J;22;2;7;For Two (Piano Trio & Tp);Rick's;;;07:16;;Instrumentation 5;Pf, Bs, Dr, Tp;;;;JazzCombo;Jazz;
-J;23;2;8;Lounge Away (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;04:43;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;
-J;24;2;9;Crescent Serenade (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;04:55;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;
-J;25;2;10;Abyss (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;06:20;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;
-J;26;3;1;Jive (Octet);YOU Band;;;03:31;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;JazzCombo;Jazz;
-J;27;3;2;For Two (Octet);YOU Band;;;03:47;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;JazzCombo;Jazz;
-J;28;3;3;Lounge Away (Octet);YOU Band;;;03:37;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;JazzCombo;Jazz;
-J;29;3;4;Crescent Serenade (Octet);YOU Band;;;04:07;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;JazzCombo;Jazz;
-J;30;3;5;Abyss (Octet);YOU Band;;;03:59;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;JazzCombo;Jazz;
-J;31;3;6;Jive (Piano Trio & Vib);Masahiro Kanno Quartet;;;05:09;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;JazzCombo;Jazz;
-J;32;3;7;For Two (Piano Trio & Vib);Masahiro Kanno Quartet;;;05:40;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;JazzCombo;Jazz;
-J;33;3;8;Lounge Away (Piano Trio & Flute);Kazuma Ito Quartet;;;04:13;;Instrumentation 7;Pf, Bs, Dr, Fl;;;;JazzCombo;Jazz;
-J;34;3;9;Crescent Serenade (Piano Trio & Flute);Kazuma Ito Quartet;;;05:52;;Instrumentation 7;Pf, Bs, Dr, Fl;;;;JazzCombo;Jazz;
-J;35;3;10;Abyss (Piano Trio & Vib);Masahiro Kanno Quartet;;;05:14;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;JazzCombo;Jazz;
-J;36;4;1;Dance Together;Nathan Ingram III;Male;English;03:42;;Style (Vocal jazz);Pf, Bs, Dr, Tp, Vo;;;;Vocal;Jazz;
-J;37;4;2;Aura Lee;Aoi Kato;Female;English;02:25;;Style (Vocal jazz);Pf, Bs, Dr, Vo;;;;Vocal;Jazz;
-J;38;4;3;The Entertainer;HH Band;;;03:08;;Style (Big band jazz);Pf, Bs, Dr, Gt, Tp, Tb, Ts, As, Bar, Fl;;;;BigBand;Jazz;Swing
-J;39;4;4;Mo' Trippin';HH Band;;;03:54;;Style (Big band jazz);Pf, Bs, Dr, Gt, Tp, Tb, Ts, As, Bar, Fl;;;;BigBand;Jazz;Fusion
-J;40;4;5;Image;Tetsuya Ozawa Quartet;;;07:41;;Style (Modal jazz);Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;Modal jazz
-J;41;4;6;Friction;Yutaka Umitsuki Quartet;;;06:05;;Style (Modal jazz);Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;Modal jazz
-J;42;4;7;Silent Night;U's Band;;;05:43;;Style (Funky jazz);Pf, Bs, Dr, Gt, Ts, As, Bar;;;;JazzCombo;Jazz;Funky jazz
-J;43;4;8;Down To The Earth;Yutaka Umitsuki Quartet;;;04:55;;Style (Funky jazz);Pf, Bs, Dr, Ts;;;;JazzCombo;Jazz;Funky jazz
-J;44;4;9;Joyful, Joyful, We Adore Thee;K's Band;;;04:30;;Style (Free jazz);Pf, Bs, Dr, Gt, Ts, Fl, Bar;;;;JazzCombo;Jazz;Free jazz
-J;45;4;10;Morning View;22 Project Band;;;04:25;;Fusion;Pf, Kb, Bs, Dr, Gt, Perc;;;;JazzCombo;Jazz;Fusion
-J;46;4;11;Formula;22 Project Band;;;03:24;;Fusion;Pf, Kb, Bs, Dr, Gt, EWI;;;;JazzCombo;Jazz;Fusion
-J;47;4;12;Morning Star;22 Project Band;;;03:45;;Fusion;Kb, Bs, Dr, Gt;;;;JazzCombo;Jazz;Fusion
-J;48;4;13;Latin Sacrifice;22 Project Band;;;04:02;;Fusion;Pf, Kb, Bs, Dr, Gt, Perc;;;;JazzCombo;Jazz;Fusion
-J;49;4;14;Wolf;22 Project Band;;;03:02;;Fusion;Kb, Kb, Bs, Dr, Gt;;;;JazzCombo;Jazz;Fusion
-J;50;4;15;Bird Of Paradise;22 Project Band;;;04:01;;Fusion;Kb, Bs, Dr, Ss, Ts, Perc;;;;JazzCombo;Jazz;Fusion
-G;1;1;1;Wasting Time;Shinya Iguchi;Male;English;05:50;;;;;Shinya Iguchi;;Vocal;Popular;Popular
-G;2;1;2;Forget about It;Shinya Iguchi;Male;English;04:22;;;;;Shinya Iguchi;;Vocal;Popular;Popular
-G;3;1;3;In Your Arms;Donna Burke;Female;English;03:49;;;;;Suguru Kawagoshi;;Vocal;Popular;Popular
-G;4;1;4;Hold On;Shinya Iguchi;Male;English;05:15;;;;;Shinya Iguchi;;Vocal;Popular;Ballade
-G;5;1;5;Taking Your Heart;Shinya Iguchi;Male;English;06:09;;;;;Shinya Iguchi;;Vocal;Popular;Ballade
-G;6;1;6;Let's Take Some Time ... To Think It Over;Betty;Female;English;04:03;;;;;Suguru Kawagoshi;;Vocal;Popular;Ballade
-G;7;1;7;Everyday Lovin';Donna Burke;Female;English;04:18;;;;;Takeshi Wada;;Vocal;Rock;Rock
-G;8;1;8;Living in a World of Destruction;Jeff Manning;Male;English;03:26;;;;;Shigekazu Kamaki;;Vocal;Rock;Rock
-G;9;1;9;Waiting for Your Love;Donna Burke;Female;English;03:30;;;;;Suguru Kawagoshi;;Vocal;Rock;Rock
-G;10;1;10;Lost in My Dreams;Jeff Manning;Male;English;03:52;;;;;Shigekazu Kamaki;;Vocal;Rock;Heavy Metal
-G;11;1;11;21st Century;Donna Burke;Female;English;05:04;;;;;Masuhiro Goto;;Vocal;Rock;Heavy Metal
-G;12;1;12;Woman;Betty;Female;English;03:21;;;;;Suguru Kawagoshi;;Vocal;Rock;Heavy Metal
-G;13;2;1;Guess Again;Donna Burke;Female;English;03:42;;;;;Shigekazu Kamaki;;Vocal;Dance;Rap / Hip-Hop
-G;14;2;2;Tuesday Morning;Jeff Manning;Male;English;03:07;;;;;Ichio Yamamoto;;Vocal;Dance;Rap / Hip-Hop
-G;15;2;3;Rocket in My Pocket;Greg Irwin;Male;English;05:11;;;;;Shingo Katsuta;;Vocal;Dance;Rap / Hip-Hop
-G;16;2;4;Life Gage;Nishi feat.T;Female;;03:11;;;;;Kazuo Nishi;;Vocal;Dance;House
-G;17;2;5;Tonight's the Night for Love;Donna Burke;Female;English;03:06;;;;;Ichio Yamamoto;;Vocal;Dance;House
-G;18;2;6;Anything for Your Love;Jeff Manning;Male;English;03:07;;;;;Ichio Yamamoto;;Vocal;Dance;House
-G;19;2;7;Asia 2;Kazuo Nishi;Male;;03:42;;;;;Kazuo Nishi;;Vocal;Dance;Techno
-G;20;2;8;Keep Running;Donna Burke;Female;English;02:42;;;;;Ichio Yamamoto;;Vocal;Dance;Techno
-G;21;2;9;Stf;Ichio;;;03:26;;;;;Ichio Yamamoto;;EDMBand;Dance;Techno
-G;22;2;10;Get on up and Dance;Donna Burke;Female;English;04:36;;;;;Emiko Yamanaka;;Vocal;Dance;Funk
-G;23;2;11;Feeling the Hate;Greg Irwin;Male;English;04:39;;;;;Junji Miyazaki;;Vocal;Dance;Funk
-G;24;2;12;Trustin' in Your Groove;Greg Irwin;Male;English;04:04;;;;;Takeshi Wada;;Vocal;Dance;Funk
-G;25;2;13;It's Time to Fly;Donna Burke;Female;English;04:03;;;;;Suguru Kawagoshi;;Vocal;Dance;Soul / R&B
-G;26;2;14;Secret Dreams;Donna Burke;Female;English;03:50;;;;;Suguru Kawagoshi;;Vocal;Dance;Soul / R&B
-G;27;2;15;Suddenly;Greg Irwin;Male;English;03:34;;;;;Shigenobu Okawa;;Vocal;Dance;Soul / R&B
-G;28;3;1;Wind Up;HH Band;;;03:24;;;;;Hiroshi Haji;;BigBand;Jazz;Big Band
-G;29;3;2;Bubble;HH Band;;;02:46;;;;;Hiroshi Haji;;BigBand;Jazz;Big Band
-G;30;3;3;Kitchen;HH Band;;;03:16;;;;;Hiroshi Haji;;BigBand;Jazz;Big Band
-G;31;3;4;Azure;Makoto Nakamura Trio;;;04:20;;;;;Hiroshi Haji;;JazzBand;Jazz;Modern Jazz
-G;32;3;5;Chuggin';Takao Nagai Trio;;;04:35;;;;;Hiroshi Haji;;JazzBand;Jazz;Modern Jazz
-G;33;3;6;The Ramp;H's Band;;;03:18;;;;;Hiroshi Haji;;JazzBand;Jazz;Modern Jazz
-G;34;3;7;Tea Break;22 Project Band;;;04:53;;;;;Bunmei Ogawa;;JazzBand;Jazz;Fusion
-G;35;3;8;Gypsy Eyes;22 Project Band;;;03:14;;;;;Kenji Nakamura;;JazzBand;Jazz;Fusion
-G;36;3;9;Wind Flower;22 Project Band;;;04:30;;;;;Bunmei Ogawa;;JazzBand;Jazz;Fusion
-G;37;4;1;Musica Nova;Bossa Novas;;;04:13;;;;;Hiroshi Haji;;;Latin;Bossa Nova
-G;38;4;2;Misty Rouge;Bossa Novas;;;03:18;;;;;Hiroshi Haji;;;Latin;Bossa Nova
-G;39;4;3;Jullia;S Project Band;Female;English;03:31;;;;;Bunmei Ogawa;;Vocal;Latin;Bossa Nova
-G;40;4;4;Lovely Women;Sambars;;;03:37;;;;;Kenji Nakamura;;;Latin;Samba
-G;41;4;5;Dance to the Samba;Sambars;Female, Vocal group (mixed);English;04:11;;;;;Bunmei Ogawa;;Vocal;Latin;Samba
-G;42;4;6;Sway So Gentle;Sambars;;;03:03;;;;;Kenji Nakamura;;;Latin;Samba
-G;43;4;7;Moon Struck;On Band;;;03:06;;;;;Bunmei Ogawa;;;Latin;Reggae
-G;44;4;8;Eric's Reggae;On Band;;;03:17;;;;;Kenji Nakamura;;;Latin;Reggae
-G;45;4;9;Where Are You?;On Band;Male;English;03:51;;;;;Bunmei Ogawa;;Vocal;Latin;Reggae
-G;46;4;10;Tango Noir;Tango House;;;02:35;;;;;Hiroshi Haji;;;Latin;Tango
-G;47;4;11;Kittenish Tango;Tango House;;;03:10;;;;;Hiroshi Haji;;;Latin;Tango
-G;48;4;12;Tango in Twilight;Tango House;;;02:58;;;;;Hiroshi Haji;;;Latin;Tango
-G;49;5;1;"""Water Music"" Suite No.2 in D major, HWV 349, 2. Alla Hornpipe";Tokyo City Philharmonic Orchestra;;;03:22;;;Orch;;Handel, George Frideric;Suite;Orchestral;Classical;Baroque
-G;50;5;2;"""Egmont"" Overture, Op.84";Tokyo City Philharmonic Orchestra;;;08:35;;;Orch;;Beethoven, Ludwig van;Theatre Music;Orchestral;Classical;Classical
-G;51;5;3;"""Die Meistersinger von Nürnberg"", Prelude to Act 1";Tokyo City Philharmonic Orchestra;;;10:10;;;Orch;;Wagner, Richard;Theatre Music;Orchestral;Classical;Romantic
-G;52;5;4;"""Alborada del Gracioso""";Tokyo City Philharmonic Orchestra;;;07:38;;;Orch;;Ravel, Maurice;Piano Suite Arrangement;Orchestral;Classical;Modern
-G;53;5;5;"""Jupiter"" from Suite ""The Planets"", Op.32";Tokyo City Philharmonic Orchestra;;;07:57;;;Orch;;Holst, Gustav;Suite;Orchestral;Classical;Modern
-G;54;5;6;"""The Stars and Stripes Forever""";Tokyo Kosei Wind Orchestra;;;03:44;;;WindEns;;Sousa, John Philip;March;Orchestral;March;Brass Band
-G;55;5;7;"""Radetzky March"", Op.228";Tokyo Kosei Wind Orchestra;;;02:36;;;WindEns;;Strauss I, Johann;March;Orchestral;March;Brass Band
-G;56;5;8;"""Pomp and Circumstance Marches"", Op.39, March No.1";Tokyo Kosei Wind Orchestra;;;06:41;;;WindEns;;Elgar, Edward;March;Orchestral;March;Brass Band
-G;57;6;1;Toccata and Fugue in D minor, BWV 565;Tetsuya Kan;;;08:28;;;Org;;Bach, Johann Sebastian;Toccata e Fugue for Organ;Solo;Classical;Baroque
-G;58A;6;2;Two-Part Inventions, No.1 in C major, BWV 772;Atsuko Watanabe;;;01:30;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Solo;Classical;Baroque
-G;58B;6;3;Two-Part Inventions, No.4 in D minor, BWV 775;Atsuko Watanabe;;;00:54;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Solo;Classical;Baroque
-G;58C;6;4;Two-Part Inventions, No.14 in Bb major, BWV 785;Atsuko Watanabe;;;01:25;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Solo;Classical;Baroque
-G;59;6;5;Rondo in D major, KV 485;Yuriko Furuichi;;;04:55;;;Pf;;Mozart, Wolfgang Amadeus;Rondo for Piano;Solo;Classical;Classical
-G;60;6;6;"String Quartet No.77 in C major, Op.76 No.3, Hob.III:77, ""Kaiser"", 2nd mvmt.";Wood Land Notes;;;07:08;;;;;Haydn, Franz Joseph;String Quartet;Chamber;Classical;Classical
-G;61;6;7;String Quartet No.1 in D major, Op.11, 2nd mvmt. (Andante Cantabile);Wood Land Notes;;;06:11;;;;;Tchaikovsky, Pyotr Ilich;String Quartet;Chamber;Classical;Romantic
-G;62;6;8;Etude in Gb major, Op.10/5;Yuri Mineo;;;01:56;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Solo;Classical;Romantic
-G;63;6;9;"""Clair de Lune"" from ""Suite Bergamasque""";Yuriko Furuichi;;;05:23;;;Pf;;Debussy, Achille-Claude;Suite for Piano;Solo;Classical;Modern
-G;64;7;1;Blue Print;22 Project Band;;;03:24;;;;;Hiroshi Takayama;;;World;Blues
-G;65;7;2;Got'em Both;22 Project Band;;;03:34;;;;;Hiroshi Takayama;;;World;Blues
-G;66;7;3;Dear John's Letter;22 Project Band;Male;English;03:57;;;;;Hiroshi Takayama;;Vocal;World;Blues
-G;67;7;4;Dream Angel;Donna Burke;Female;English;04:05;;;;;Kazuo Nishi;;Vocal;World;Folk
-G;68;7;5;Grassy Dance;Shigekazu Kamaki;;;03:13;;;;;Shigekazu Kamaki;;;World;Folk
-G;69;7;6;What Should I Tell Them?;Greg Irwin;Male;English;04:18;;;;;Kazuo Nishi;;Vocal;World;Folk
-G;70;7;7;Bjc Fiddle Rag;Banjo Club;;;03:39;;;;;Satoshi Hara;;;World;Country
-G;71;7;8;Desperate Little Man;Banjo Club;Male;English;03:45;;;;;Satoshi Hara;;Vocal;World;Country
-G;72;7;9;I Don't Love Nobody;Banjo Club;;;04:34;;;;;Satoshi Hara;;;World;Country
-G;73;7;10;Not Enough Words;22 Project Band;Female;English;04:19;;;;;Bunmei Ogawa;;Vocal;World;Gospel
-G;74;7;11;With My Jalopy;22 Project Band;Male;English;04:32;;;;;Kenji Nakamura;;Vocal;World;Gospel
-G;75;7;12;My Faith;22 Project Band;;;02:53;;;;;Kenji Nakamura;;;World;Gospel
-G;76;8;1;Havini Tishi Tishi;Fresh Jumbe;Male;;03:17;;;;;Fresh Jumbe;;Vocal;World;African
-G;77;8;2;Kasheki;Fresh Jumbe;Male;;04:04;;;;;Fresh Jumbe;;Vocal;World;African
-G;78;8;3;Mwanambuzi;Fresh Jumbe;Male;;04:26;;;;;Fresh Jumbe;;Vocal;World;African
-G;79;8;4;Raga Charukesi - Alap;Shanti;;;04:58;;;;;(Improvisation);;Traditional;World;Indian
-G;80;8;5;Raga Charukesi - Vilambit Teentaal;Shanti;;;04:59;;;;;(Improvisation);;Traditional;World;Indian
-G;81;8;6;Raga Charukesi - Drut Teentaal;Shanti;;;05:04;;;;;(Improvisation);;Traditional;World;Indian
-G;82;8;7;Sevillanas;David Lainfiesta;;;03:11;;;;;David Lainfiesta;;;World;Flamenco
-G;83;8;8;Tangos;Miguel de Badajoz;Male;Spanish;05:17;;;;;Miguel de Badajoz;;Vocal;World;Flamenco
-G;84;8;9;Rumba;David Lainfiesta;;;03:45;;;;;David Lainfiesta;;;World;Flamenco
-G;85;8;10;"Rue Saint-Vincent ""Rose Blanche""";Monden Momo;Female;French;04:02;;;;;Aristide Bruant;;Vocal;Vocal;Chanson
-G;86;8;11;Le Temps Des Cerises;Monden Momo;Female;French;03:54;;;;;Antoine Renard;;Vocal;Vocal;Chanson
-G;87;8;12;Je Te Veux;Monden Momo;Female;French;03:39;;;;;Erik Satie;;Vocal;Vocal;Chanson
-G;88;8;13;Santa Lucia;Jun Aoki;Male;Italian;03:28;;;;;Cottrau;;Vocal;Vocal;Canzone
-G;89;8;14;O Sole Mio;Jun Aoki;Male;Italian;03:50;;;;;Edoardo Di Capua;;Vocal;Vocal;Canzone
-G;90;8;15;Turna A Surriento;Jun Aoki;Male;Italian;04:39;;;;;Ernesto De Curtis;;Vocal;Vocal;Canzone
-G;91;9;1;Tairyo Bune;Kazuo Nishi;Male;Japanese;04:30;;;;;Hiroshi Takayama;;Vocal;Traditional Japanese;Popular (Enka)
-G;92;9;2;Kita no Komoriuta;Kazuo Nishi;Male;Japanese;04:15;;;;;Kazuo Nishi;;Vocal;Traditional Japanese;Popular (Enka)
-G;93;9;3;Ai Hitohira;Hiromi Yoshii;Female;Japanese;04:14;;;;;Kazuo Nishi;;Vocal;Traditional Japanese;Popular (Enka)
-G;94;9;4;Sado Okesa;Machi Watanabe;Female;Japanese;03:09;;;;;;;Vocal;Traditional Japanese;Folk (Min'you)
-G;95;9;5;Nambu Ushioiuta;Machi Watanabe;Female;Japanese;03:23;;;;;;;Vocal;Traditional Japanese;Folk (Min'you)
-G;96;9;6;Soran Bushi;Machi Watanabe;Female;Japanese;02:11;;;;;;;Vocal;Traditional Japanese;Folk (Min'you)
-G;97;9;7;Hyojo Etenraku;Hougakudo;;;04:27;;;;;;;Traditional;Traditional Japanese;Court (Gagaku)
-G;98;9;8;Taishikicho Gakkaen;Hougakudo;;;05:43;;;;;;;Traditional;Traditional Japanese;Court (Gagaku)
-G;99;9;9;Taishikicho Chogeishi;Hougakudo;;;04:11;;;;;;;Traditional;Traditional Japanese;Court (Gagaku)
-G;100;9;10;Precious Love;Dik;Vocal group ( 2 male + 2 female);English;03:16;;;;;Kazuo Nishi;;Vocal;A Cappella;A Cappella
+RWCID;CollID;PieceNo;CDNo;TrackNo;Title;Artist;SingerInformation;SingingLanguage;Tempo;Variation;LiveInstruments;DrumInformation;Composer;CompositionType;GenreMain;GenreSub;audio_start;audio_end;duration
+RWC_P001;P;1;1;1;Eien no replica;Kazuo Nishi;Male;Japanese;135.0;;Gt;Drum sequences;;;Popular;J-pop;0.0236;204.4778;207.16829931972788
+RWC_P002;P;2;1;2;Magic in your eyes;Hiromi Yoshii;Female;Japanese;100.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0156;216.8918;220.66913832199543
+RWC_P003;P;3;1;3;HORO;MIT;Vocal group (1 male + 1 female);Japanese;111.0;;;Drum sequences;;;Popular;J-pop;0.4759;190.2527;193.32548752834467
+RWC_P004;P;4;1;4;Spice of Life;Hisayoshi Kazato;Male;Japanese;86.0;;Gt;Drum sequences;;;Popular;J-pop;0.0164;237.1454;240.46739229024945
+RWC_P005;P;5;1;5;Koino Ver.2.4;Eves;Vocal group (4 female);Japanese;135.0;;Gt;Drum sequences;;;Popular;J-pop;0.058;223.7098;226.0788662131519
+RWC_P006;P;6;1;6;Funky Life;Oriken;Male;Japanese;120.0;;Gt;Drum sequences;;;Popular;J-pop;0.0152;202.8551;204.5380498866213
+RWC_P007;P;7;1;7;PROLOGUE;Tomomi Ogata;Female;Japanese;122.0;;Gt;Drum sequences;;;Popular;J-pop;0.0631;294.638;296.6453514739229
+RWC_P008;P;8;1;8;Jinsei konnamono;fevers;Vocal group (2 female);Japanese;127.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0253;187.0716;190.15759637188208
+RWC_P009;P;9;1;9;Doukoku;Kazuo Nishi;Male;Japanese;70.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0165;271.3041;275.0001360544218
+RWC_P010;P;10;1;10;Getting Over;Brakes;Vocal group (3 female);Japanese;125.0;;Gt;Drum sequences;;;Popular;J-pop;0.016;211.2435;213.6621768707483
+RWC_P011;P;11;1;11;Ienai;Hisayoshi Kazato;Male;Japanese;90.0;;Gt;Drum sequences;;;Popular;J-pop;2.5484;263.6653;265.89238095238096
+RWC_P012;P;12;1;12;KAGE-ROU;Kazuo Nishi;Male;Japanese;120.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0105;201.079;202.83331065759637
+RWC_P013;P;13;1;13;Catch ball;Konbu;Female;Japanese;103.0;;Gt;Drum sequences;;;Popular;J-pop;0.0161;215.5;217.06024943310655
+RWC_P014;P;14;1;14;Karehairo no Twilight;Rin;Female;Japanese;88.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0174;229.2122;232.91927437641723
+RWC_P015;P;15;1;15;old fashioned;Katsuyuki Ozawa;Male;Japanese;132.0;;Gt;Drum sequences;;;Popular;J-pop;0.0164;156.5852;160.86596371882086
+RWC_P016;P;16;1;16;Game of Love;Hiromi Yoshii;Female;Japanese;122.0;;Gt, Bs;Drum loops;;;Popular;J-pop;0.0165;257.5714;262.1090022675737
+RWC_P017;P;17;2;1;Anata to aete;Hiromi Yoshii;Female;Japanese;97.0;;Gt;Drum sequences;;;Popular;J-pop;0.0283;237.1265;239.40975056689345
+RWC_P018;P;18;2;2;True Heart;Tomomi Ogata;Female;Japanese;112.0;;Gt;Drum sequences;;;Popular;J-pop;0.011;250.2298;252.0724716553288
+RWC_P019;P;19;2;3;COOL Motion;Hisayoshi Kazato;Male;Japanese;130.0;;Gt;Drum sequences;;;Popular;J-pop;0.0276;283.8531;287.0084580498866
+RWC_P020;P;20;2;4;Tokimeki no syunkan;Eri Ichikawa;Female;Japanese;134.0;;;Drum sequences;;;Popular;J-pop;0.0793;244.0882;248.11875283446713
+RWC_P021;P;21;2;5;Feeling In My Heart;Rin;Female;Japanese;98.0;;Gt;Drum sequences;;;Popular;J-pop;0.02;264.9223;266.92204081632656
+RWC_P022;P;22;2;6;Koi ni ochiru jikan ni kansuru kousatsu;Kazuo Nishi;Male;Japanese;135.0;;Gt;Drum sequences;;;Popular;J-pop;0.02;205.0571;207.48945578231292
+RWC_P023;P;23;2;7;SHAKE;MAPS;Vocal group (2 male);Japanese;132.0;;Gt;Drum sequences;;;Popular;J-pop;0.0493;195.0655;199.14950113378688
+RWC_P024;P;24;2;8;it's all right;Hisayoshi Kazato;Male;Japanese;130.0;;;Drum sequences;;;Popular;J-pop;0.021;237.1143;238.2215419501134
+RWC_P025;P;25;2;9;tell me;Tomomi Ogata;Female;Japanese;103.0;;Gt;Drum sequences;;;Popular;J-pop;0.0171;251.8415;254.43160997732423
+RWC_P026;P;26;2;10;aozora sanpo michi;Tomoko Nitta;Female;Japanese;158.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.2035;202.2857;205.0189342403628
+RWC_P027;P;27;2;11;stay;Shingo Katsuta;Male;Japanese;124.0;;Gt;Drum sequences;;;Popular;J-pop;0.0508;314.4612;316.4108163265306
+RWC_P028;P;28;2;12;Fly away;Tomomi Ogata;Female;Japanese;109.0;;Gt;Drum sequences;;;Popular;J-pop;0.0305;246.6612;248.9515192743764
+RWC_P029;P;29;2;13;One Two STEP;Kazuo Nishi;Male;Japanese;103.0;;Gt;Drum sequences;;;Popular;J-pop;0.0435;210.1116;213.06174603174605
+RWC_P030;P;30;2;14;syounen no omoi;Mitsuru Tanimoto;Male;Japanese;104.0;;;Drum sequences;;;Popular;J-pop;0.016;192.1916;194.06256235827664
+RWC_P031;P;31;2;15;Moving Round and Round;Yuuichi Nagayama;Male;Japanese;129.0;;;Drum loops;;;Popular;J-pop;0.0175;245.6467;248.181179138322
+RWC_P032;P;32;2;16;what could I do for you;Masaki Kuehara;Male;Japanese;125.0;;Gt;Drum sequences;;;Popular;J-pop;0.0152;250.8742;252.04453514739228
+RWC_P033;P;33;3;1;DREAM MAGIC;Hiromi Yoshii;Female;Japanese;108.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0697;282.047;284.97507936507935
+RWC_P034;P;34;3;2;Hitoyo no yume;Hiromi Yoshii;Female;Japanese;93.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0469;203.5055;205.60031746031743
+RWC_P035;P;35;3;3;Midarana kami no moushigo;Hiromi Yoshii;Female;Japanese;170.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0571;187.2333;190.98795918367347
+RWC_P036;P;36;3;4;over and over;Kazuo Nishi;Male;Japanese;135.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0778;307.249;314.2210657596372
+RWC_P037;P;37;3;5;Replica;Yoshinori Hatae;Male;Japanese;184.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.02;233.7611;237.06746031746033
+RWC_P038;P;38;3;6;1999;Kousuke Morimoto;Male;Japanese;125.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0165;270.8985;273.3017006802721
+RWC_P039;P;39;3;7;SPUL;Kousuke Morimoto;Male;Japanese;73.0;;Gt, Bs, HH;Drum sequences;;;Popular;J-pop;0.0298;285.1633;286.81532879818593
+RWC_P040;P;40;3;8;promise;Kazuo Nishi;Male;Japanese;122.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0175;219.99;224.21625850340135
+RWC_P041;P;41;3;9;Non Stop Driving;Katsuyuki Ozawa;Male;Japanese;200.0;;Gt;Drum sequences;;;Popular;J-pop;0.0559;166.3061;168.1025170068027
+RWC_P042;P;42;3;10;Fly to the moon;Kousuke Morimoto;Male;Japanese;125.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0385;242.4853;246.72537414965987
+RWC_P043;P;43;3;11;Centimeter no kodoku;Kazuo Nishi;Male;Japanese;163.0;;Gt;Drum sequences;;;Popular;J-pop;0.0164;199.6816;202.27662131519276
+RWC_P044;P;44;3;12;REAL na 5 hun;Kousuke Morimoto;Male;Japanese;124.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.0212;240.6316;244.0502267573696
+RWC_P045;P;45;3;13;Hajimari;Kousuke Morimoto;Male;Japanese;77.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0122;216.5061;220.49709750566893
+RWC_P046;P;46;3;14;Senro wa tsuzukuyo;Kousuke Morimoto;Male;Japanese;168.0;;Gt;Drum sequences;;;Popular;J-pop;0.1937;194.5832;196.98154195011335
+RWC_P047;P;47;3;15;Deaetakara;Satoshi Kumasaka;Male;Japanese;94.0;;Gt, Gt, Bs, Dr, Org;Live drums;;;Popular;J-pop;0.0176;205.0531;208.70895691609977
+RWC_P048;P;48;3;16;Syodoubutsu;Hiroshi Sekiya;Male;Japanese;86.0;;Gt;Drum sequences;;;Popular;J-pop;0.0181;266.8655;269.5519047619048
+RWC_P049;P;49;4;1;Sekai no mikata;Hiroshi Sekiya;Male;Japanese;100.0;;Gt;Drum sequences;;;Popular;J-pop;0.0172;269.7382;273.0244671201814
+RWC_P050;P;50;4;2;Mrs. Maril;Rin;Female;Japanese;114.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.016;189.5634;193.37192743764172
+RWC_P051;P;51;4;3;Modoranai natsu;Hiroshi Sekiya;Male;Japanese;104.0;;Gt, Gt, Bs, Dr, Pf;Live drums;;;Popular;J-pop;0.0203;363.6408;365.32621315192745
+RWC_P052;P;52;4;4;Haru ga kurukara;Tomomi Ogata;Female;Japanese;140.0;;Gt;Drum sequences;;;Popular;J-pop;0.0277;221.2629;223.4261224489796
+RWC_P053;P;53;4;5;Ashita wa;Rin;Female;Japanese;132.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.1038;216.693;217.73637188208616
+RWC_P054;P;54;4;6;Harukana omoi;Rin;Female;Japanese;125.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.066;219.8117;220.8841723356009
+RWC_P055;P;55;4;7;First Love;Akiko Kaburagi;Female;Japanese;74.0;;Gt, Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0165;245.9592;247.14530612244897
+RWC_P056;P;56;4;8;I've got a mail;Masashi Hashimoto;Male;Japanese;74.0;;Gt, Bs;Drum loops;;;Popular;J-pop;0.0159;317.0612;320.9289115646259
+RWC_P057;P;57;4;9;Stay with me;Masashi Hashimoto;Male;Japanese;70.0;;;Drum sequences;;;Popular;J-pop;0.7653;261.649;265.1367573696145
+RWC_P058;P;58;4;10;Silver shoes;Rin;Female;Japanese;118.0;;;Drum loops;;;Popular;J-pop;0.0161;221.7469;223.93301587301588
+RWC_P059;P;59;4;11;Tenshi no utatane;Rin;Female;Japanese;98.0;;Gt, Tp;Drum loops;;;Popular;J-pop;0.0669;200.8729;202.9821768707483
+RWC_P060;P;60;4;12;Kumorizora;Yuzu Iijima;Female;Japanese;148.0;;Gt, Gt, Bs;Drum loops;;;Popular;J-pop;0.0163;239.27;241.47850340136057
+RWC_P061;P;61;4;13;FOR YOU;Kazuo Nishi;Male;Japanese;121.0;;Gt;Drum sequences;;;Popular;J-pop;0.016;275.8821;281.1331746031746
+RWC_P062;P;62;4;14;Be with me Now;Rin;Female;Japanese;81.0;;Gt;Drum sequences;;;Popular;J-pop;0.0195;186.4816;189.07226757369617
+RWC_P063;P;63;4;15;Power of mind;Reiko Sato;Female;Japanese;126.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0282;244.2971;248.97224489795917
+RWC_P064;P;64;4;16;So Long;Kousuke Morimoto;Male;Japanese;100.0;;Gt, Bs;Drum sequences;;;Popular;J-pop;0.2415;290.6558;292.4395238095238
+RWC_P065;P;65;5;1;Tanabata;Makiko Hattori;Female;Japanese;76.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0169;227.3698;230.02185941043084
+RWC_P066;P;66;5;2;Mousugu natsu ga kuru;M & Y;Vocal group (2 female);Japanese;76.0;;Gt, HH, Pf;Drum sequences;;;Popular;J-pop;0.0285;314.9671;318.561768707483
+RWC_P067;P;67;5;3;Tokei no hayasa wa;Makiko Hattori;Female;Japanese;88.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0162;245.4117;248.65560090702948
+RWC_P068;P;68;5;4;Nichiyoubi;Makiko Hattori;Female;Japanese;92.0;;Gt, Bs, Dr;Live drums;;;Popular;J-pop;0.0171;290.8735;292.221746031746
+RWC_P069;P;69;5;5;Gin no sora;Hiromi Yoshii;Female;Japanese;62.0;;Gt;Drum sequences;;;Popular;J-pop;0.0285;357.0449;358.33045351473925
+RWC_P070;P;70;5;6;Miageta sora wa;Tamako Matsuzaka;Female;Japanese;104.0;;Gt, Bs, Dr, Pf;Live drums;;;Popular;J-pop;0.1357;243.5686;244.69002267573697
+RWC_P071;P;71;5;7;Tsuki no youni;Hiromi Yoshii;Female;Japanese;70.0;;Gt, Pf;Without drums;;;Popular;J-pop;0.0209;282.8713;284.41278911564626
+RWC_P072;P;72;5;8;Heart to Hurt;Kousuke Morimoto;Male;Japanese;76.0;;Pf, Vc;Without drums;;;Popular;J-pop;0.0172;198.3184;199.34326530612245
+RWC_P073;P;73;5;9;Miss Maria;Kazuo Nishi;Male;Japanese;144.0;;Pf, Vc;Without drums;;;Popular;J-pop;0.0559;132.4125;134.44120181405896
+RWC_P074;P;74;5;10;Kimi no iro;Kousuke Morimoto;Male;Japanese;94.0;;Gt;Without drums;;;Popular;J-pop;0.0222;189.9837;192.2696598639456
+RWC_P075;P;75;5;11;Toui machi e;Hiromi Yoshii;Female;Japanese;108.0;;Pf;Without drums;;;Popular;J-pop;0.0186;198.6583;199.93913832199547
+RWC_P076;P;76;5;12;Chikai;Kousuke Morimoto;Male;Japanese;70.0;;Gt;Without drums;;;Popular;J-pop;0.0629;227.6082;228.8602947845805
+RWC_P077;P;77;5;13;Aishiteru;Makiko Hattori;Female;Japanese;120.0;;Gt, Pf;Without drums;;;Popular;J-pop;0.0319;232.8033;234.13360544217687
+RWC_P078;P;78;5;14;Kumo;Masaki Kuehara;Male;Japanese;75.0;;Gt;Without drums;;;Popular;J-pop;0.0163;258.1362;259.2077777777778
+RWC_P079;P;79;5;15;Together;Tomomi Ogata;Female;Japanese;92.0;;;Without drums;;;Popular;J-pop;0.023;263.4857;266.3466439909297
+RWC_P080;P;80;5;16;Sagashimono;Tomomi Ogata;Female;Japanese;80.0;;;Without drums;;;Popular;J-pop;0.0221;216.4163;219.0652380952381
+RWC_P081;P;81;6;1;How Deep Is Your Love?;Donna Burke;Female;English;90.0;;Gt;Drum sequences;;;Popular;Pop;0.0181;225.0043;228.781768707483
+RWC_P082;P;82;6;2;Once in a life time;Shinya Iguchi;Male;English;88.0;;Gt, Dr;Live drums;;;Popular;Pop;0.0404;327.7351;335.0451927437642
+RWC_P083;P;83;6;3;Doing That Thing;Jeff Manning;Male;English;140.0;;Gt;Drum sequences;;;Popular;Pop;0.0988;213.9312;215.3744671201814
+RWC_P084;P;84;6;4;Someday;Shinya Iguchi;Male;English;138.0;;Gt, Dr;Live drums;;;Popular;Pop;0.0172;275.6531;278.39283446712017
+RWC_P085;P;85;6;5;Waiting for the moment;Jeff Manning;Male;English;98.0;;Gt;Drum sequences;;;Popular;Pop;0.0227;206.1235;208.4657596371882
+RWC_P086;P;86;6;6;Angel Baby;Betty;Female;English;80.0;;Gt;Drum sequences;;;Popular;Pop;0.0458;253.3714;255.81709750566893
+RWC_P087;P;87;6;7;I think of you;Jeff Manning;Male;English;90.0;;Gt;Drum sequences;;;Popular;Pop;0.0185;287.4456;289.2319047619048
+RWC_P088;P;88;6;8;Woman Like You;Shinya Iguchi;Male;English;120.0;;Gt, Dr;Live drums;;;Popular;Pop;0.0186;244.4816;247.52342403628117
+RWC_P089;P;89;6;9;Life Is What You Make It To Be;Donna Burke;Female;English;134.0;;Gt;Drum sequences;;;Popular;Pop;0.0114;219.4373;221.3626303854875
+RWC_P090;P;90;6;10;Don't Say Good bye;Shinya Iguchi;Male;English;127.0;;Gt, Dr;Live drums;;;Popular;Pop;0.0305;275.9265;277.7014058956916
+RWC_P091;P;91;7;1;Change Of Heart;Donna Burke;Female;English;124.0;;Gt;Drum sequences;;;Popular;Pop;0.0161;220.0653;221.81428571428572
+RWC_P092;P;92;7;2;I'll be there for you;Betty;Female;English;134.0;;;Drum sequences;;;Popular;Pop;0.022;217.2653;218.36761904761903
+RWC_P093;P;93;7;3;Sweet Dreams;Donna Burke;Female;English;90.0;;Gt;Drum sequences;;;Popular;Pop;0.0233;255.551;256.8042857142857
+RWC_P094;P;94;7;4;Life;Betty;Female;English;78.0;;Gt;Drum sequences;;;Popular;Pop;0.4735;220.5402;221.88911564625852
+RWC_P095;P;95;7;5;Feel;Jeff Manning;Male;English;161.0;;Gt, Bs, Dr;Live drums;;;Popular;Pop;0.0893;227.9143;230.7943537414966
+RWC_P096;P;96;7;6;Weekend;Betty;Female;English;130.0;;;Drum loops;;;Popular;Pop;0.0171;276.498;277.9712925170068
+RWC_P097;P;97;7;7;Don't Lie To Me;Donna Burke;Female;English;91.0;;Gt;Drum sequences;;;Popular;Pop;0.0182;239.3832;241.09702947845804
+RWC_P098;P;98;7;8;31 BLUES;Jeff Manning;Male;English;107.0;;Gt, Bs, Dr;Live drums;;;Popular;Pop;0.016;206.4878;209.8730612244898
+RWC_P099;P;99;7;9;Once and For All;Shinya Iguchi;Male;English;73.0;;Gt;Without drums;;;Popular;Pop;0.2115;313.1153;315.2229931972789
+RWC_P100;P;100;7;10;No Regrets;Shinya Iguchi;Male;English;80.0;;Gt;Drum loops;;;Popular;Pop;0.0197;291.6367;293.36519274376417
+RWC_R001;R;1;1;1;Chou chou;Hiromi Asakawa;Female;Japanese;120.0;;Gt, Bs, HH;Drum sequences;;;Popular;J-pop;0.0769;123.8494;125.14909297052154
+RWC_R002;R;2;1;2;Musunde hiraite;Hiromi Asakawa;Female;Japanese;104.0;;Gt;Drum sequences;;;Popular;J-pop;0.222;123.9771;128.03260770975058
+RWC_R003;R;3;1;3;Akai kutsu;Hiromi Asakawa;Female;Japanese;75.0;;Gt, Bs, HH;Drum sequences;;;Popular;J-pop;0.2075;173.902;176.66589569161
+RWC_R004;R;4;1;4;Nanatsu no ko;Hiromi Asakawa;Female;Japanese;70.0;;;Drum sequences;;;Popular;J-pop;0.0244;124.502;126.46678004535148
+RWC_R005;R;5;1;5;Momotaro;Hiromi Asakawa;Female;Japanese;130.0;;Gt;Drum sequences;;;Popular;J-pop;0.3643;124.9477;128.3536507936508
+RWC_R006;R;6;1;6;Jingle Bells;Donna Burke;Female;English;115.0;;Gt, Bs, HH;Drum sequences;;;Popular;American Christmas Song / Christmas music;0.0639;115.1594;118.3458276643991
+RWC_R007;R;7;1;7;Mary Had A Little Lamb;Donna Burke;Female;English;100.0;;Gt, Bs, HH;Drum sequences;;;Popular;American Nursery Song / Nursery rhymes;0.1286;119.2286;122.73641723356008
+RWC_R008;R;8;1;8;I've Been Workin' On The Railroad;Jeff Manning;Male;English;130.0;;Gt, HH;Drum sequences;;;Popular;American Folk Song;0.148;119.9869;124.07943310657596
+RWC_R009;R;9;1;9;Home on the Range;Jeff Manning;Male;English;100.0;;Gt;Drum sequences;;;Popular;American Folk Song;0.0189;150.9558;152.67176870748298
+RWC_R010;R;10;1;10;Yankee Doodle;Jeff Manning;Male;English;116.0;;Gt, HH;Drum sequences;;;Popular;American Nursery Song;0.0663;141.2063;143.93832199546486
+RWC_R011;R;11;1;11;John Brown Had A Little Indian;Donna Burke;Female;English;120.0;;Gt;Drum sequences;;;Popular;American Nursery Song;0.0181;125.5342;128.52430839002267
+RWC_R012;R;12;1;12;When the Saints Go Marching in;Jeff Manning;Male;English;200.0;;Gt;Drum sequences;;;Popular;American traditional black spiritual;0.016;120.2202;122.90081632653062
+RWC_R013;R;13;1;13;Silent Night;Donna Burke;Female;English;70.0;;;Drum sequences;;;Popular;Christmas Carol;0.0145;114.8749;116.52514739229024
+RWC_R014;R;14;1;14;Turkey In The Straw;Donna Burke;Female;English;180.0;;Gt;Drum sequences;;;Popular;American Folk Song;0.0163;119.6113;122.71877551020408
+RWC_R015;R;15;1;15;My Bonny;Jeff Manning;Male;English;80.0;;;Drum sequences;;;Popular;Scottisch Folk Song;0.019;103.7177;106.2141723356009
+RWC_C001;C;1;1;1;"Symphony No.94 in G major, Hob.I:94, ""The Surprise"", 1st mvmt.";Tokyo City Philharmonic Orchestra;;;;;Orch;;Haydn, Franz Joseph;Symphony;Classical;Classical;0.4158;497.5804;502.1465759637188
+RWC_C002;C;2;1;2;Symphony No.40 in G minor, KV 550, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;;;Orch;;Mozart, Wolfgang Amadeus;Symphony;Classical;Classical;0.3679;454.0735;457.73895691609977
+RWC_C003;C;3;1;3;Symphony No.5 in C minor, Op.67, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;;;Orch;;Beethoven, Ludwig van;Symphony;Classical;Classical;0.022;427.6245;433.7109977324263
+RWC_C004;C;4;1;4;"Symphony No.6 in B minor, Op.74, ""Pathétique"", 4th mvmt.";Tokyo City Philharmonic Orchestra;;;;;Orch;;Tchaikovsky, Pyotr Ilich;Symphony;Classical;Romantic;1.0391;583.2998;590.7390022675737
+RWC_C005;C;5;1;5;Violin Concerto No.5 in A major, KV 219, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;;;Vn, Orch;;Mozart, Wolfgang Amadeus;Concerto;Classical;Classical;0.2017;600.2097;604.4076870748299
+RWC_C006;C;6;1;6;Piano Concerto No.1 in E minor, Op.11, 2nd mvmt.;Tokyo City Philharmonic Orchestra;;;;;Pf, Orch;;Chopin, Frédéric François;Concerto;Classical;Romantic;0.3505;593.502;600.2344671201814
+RWC_C007;C;7;2;1;Brandenburg Concerto No.5 in D major, BWV 1050, 1st mvmt.;Tokyo City Philharmonic Orchestra;;;;;Orch;;Bach, Johann Sebastian;Concerto;Classical;Baroque;0.0233;596.049;599.5309750566894
+RWC_C008;C;8;2;2;"""Le Nozze di Figaro"" (The Marriage of Figaro), KV 492, Overture";Tokyo City Philharmonic Orchestra;;;;;Orch;;Mozart, Wolfgang Amadeus;Theatre Music;Classical;Classical;0.3652;248.6161;252.9680045351474
+RWC_C009;C;9;2;3;"""Tristan und Isolde"", Prelude and Liebestod";Tokyo City Philharmonic Orchestra;;;;;Orch;;Wagner, Richard;Theatre Music;Classical;Romantic;1.2599;1076.271;1079.5187301587302
+RWC_C010;C;10;2;4;"""An der Schönen Blauen Donau"" (Blue Danube Waltz), Op.314";Tokyo City Philharmonic Orchestra;;;;;Orch;;Strauss II, Johann;Waltz;Classical;Romantic;0.3773;455.1771;460.1149886621315
+RWC_C011;C;11;2;5;Passacaglia and Fugue in C minor, BWV 582;Tetsuya Kan;;;;;Org;;Bach, Johann Sebastian;Passacaglias, Fugues for Organ;Classical;Baroque;0.0082;748.8327;756.8670068027211
+RWC_C012;C;12;3;1;"""The Musical Offering"", BWV 1079, Ricercare à 6";Wood Land Notes;;;;;;;Bach, Johann Sebastian;Canon;Classical;Baroque;0.0288;381.7894;385.4374603174603
+RWC_C013;C;13;3;2;String Quartet No.19 in C major, KV 465, 1st mvmt.;Wood Land Notes;;;;;Vn,Vn, Va, Vc;;Mozart, Wolfgang Amadeus;String Quartet;Classical;Classical;0.0214;503.2693;508.0045351473923
+RWC_C014;C;14;3;3;String Quartet No.14 in C# minor, Op.131, 5th mvmt.;Wood Land Notes;;;;;Vn,Vn, Va, Vc;;Beethoven, Ludwig van;String Quartet;Classical;Classical;0.0362;391.4014;395.70875283446713
+RWC_C015;C;15;3;4;String Quartet No.2 in D major, 3rd mvmt.;Wood Land Notes;;;;;Vn,Vn, Va, Vc;;Borodin, Alexander;String Quartet;Classical;Romantic;0.3614;459.4387;461.55578231292515
+RWC_C016;C;16;3;5;Clarinet Quintet in A major, KV 581, 1st mvmt.;Wood Land Notes;;;;;Cl, Vn,Vn, Va, Vc;;Mozart, Wolfgang Amadeus;Clarinet Quintet;Classical;Classical;0.6872;539.0141;543.8874376417234
+RWC_C017;C;17;3;6;Clarinet Quintet in B minor, Op.115, 3rd mvmt.;Wood Land Notes;;;;;Cl, Vn,Vn, Va, Vc;;Brahms, Johannes;Clarinet Quintet;Classical;Romantic;0.0068;290.0985;295.0542403628118
+RWC_C018;C;18;3;7;Horn Trio in Eb major, Op.40, 2nd mvmt.;Wood Land Notes;;;;;Hn, Vn, Pf;;Brahms, Johannes;Horn Trio;Classical;Romantic;0.0095;458.4562;462.20113378684806
+RWC_C019;C;19;4;1;"Piano Trio No.7 in Bb major, Op.97, ""Archduke"", 1st mvmt.";Wood Land Notes;;;;;Pf, Vn, Vc;;Beethoven, Ludwig van;Piano Trio;Classical;Classical;0.0122;567.532;571.8348299319728
+RWC_C020;C;20;4;2;Piano Trio No.1 in B major, Op.8, 1st mvmt.;Wood Land Notes;;;;;Pf, Vn, Vc;;Brahms, Johannes;Piano Trio;Classical;Romantic;0.1079;626.3467;630.1323809523809
+RWC_C021;C;21;4;3;"Piano Quintet in A major, Op.32/D.667, ""Trout"", 4th mvmt.";Wood Land Notes;;;;;Vn,Va, Vc, Db, Pf;;Schubert, Franz Peter;Piano Quintet;Classical;Romantic;0.4082;484.3175;488.95274376417234
+RWC_C022;C;22;4;4;Hungarian Dance No.5 in F# minor;Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Brahms, Johannes;Piano 4 Hands;Classical;Romantic;0.0095;137.9918;143.24501133786848
+RWC_C023A;C;23A;4;5;"Suite ""Ma Mère l'Oye"" (Mother Goose), 1. Pavane de la Belle au Bois Dormant";Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Classical;Romantic;0.0103;75.5135;78.19174603174604
+RWC_C023B;C;23B;4;6;"Suite ""Ma Mère l'Oye"" (Mother Goose), 2. Petit Poucet";Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Classical;Romantic;0.0073;160.5892;163.30891156462584
+RWC_C023C;C;23C;4;7;"Suite ""Ma Mère l'Oye"" (Mother Goose), 3. Laideronnette, Impératrice des Pagodes";Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Classical;Romantic;0.0125;196.4931;202.99242630385487
+RWC_C023D;C;23D;4;8;"Suite ""Ma Mère l'Oye"" (Mother Goose), 4. Les Entretiens de la Belle et de la Bête";Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Classical;Romantic;0.0107;241.8939;247.06739229024944
+RWC_C023E;C;23E;4;9;"Suite ""Ma Mère l'Oye"" (Mother Goose), 5. Le Jardin Féerique";Yuriko Furuichi & Yoshiko Kikuchi;;;;;Pf;;Ravel, Maurice;Suite for Piano 4 Hands;Classical;Romantic;0.0092;162.3075;167.961768707483
+RWC_C024A;C;24A;4;10;The Anna Magdalena Bach Notebooks, 1. Menuet in G major;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Minuet for Keyboard;Classical;Baroque;0.0125;80.6197;83.97179138321995
+RWC_C024B;C;24B;4;11;The Anna Magdalena Bach Notebooks, 2. Menuet in G minor;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Minuet for Keyboard;Classical;Baroque;0.0056;82.2683;87.11126984126984
+RWC_C024C;C;24C;4;12;The Anna Magdalena Bach Notebooks, 8. Musette in D major;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Musette for Keyboard;Classical;Baroque;0.0237;44.0555;50.271473922902494
+RWC_C025A;C;25A;4;13;The Well-Tempered Clavier, Book 1, No.1 in C major, BWV 846, Prelude;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Prelude for Keyboard;Classical;Baroque;0.029;116.5584;121.75308390022676
+RWC_C025B;C;25B;4;14;The Well-Tempered Clavier, Book 1, No.1 in C major, BWV 846, Fugue;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Fugue for Keyboard;Classical;Baroque;0.0059;124.1165;129.7624036281179
+RWC_C025C;C;25C;4;15;The Well-Tempered Clavier, Book 1, No.2 in C minor, BWV 847, Prelude;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Prelude for Keyboard;Classical;Baroque;0.0065;86.4871;89.91061224489796
+RWC_C025D;C;25D;4;16;The Well-Tempered Clavier, Book 1, No.2 in C minor, BWV 847, Fugue;Atsuko Watanabe;;;;;Hp;;Bach, Johann Sebastian;Fugue for Keyboard;Classical;Baroque;0.0053;109.2876;114.56687074829932
+RWC_C026;C;26;5;1;Piano Sonata in A major, KV 331/300i, 1st mvmt.;Norio Shimizu;;;;;Pf;;Mozart, Wolfgang Amadeus;Piano Sonata;Classical;Classical;0.0083;594.5324;598.4436734693877
+RWC_C027;C;27;5;2;"Variations on ""Ah Vous Dirai-je Maman"", KV 265/300e";Yuriko Furuichi;;;;;Pf;;Mozart, Wolfgang Amadeus;Variations for Piano;Classical;Classical;0.0093;441.2256;445.93097505668936
+RWC_C028;C;28;5;3;"Piano Sonata No.23 in F minor, Op.57, ""Appasionata"", 1st mvmt.";Sarasa Watanabe;;;;;Pf;;Beethoven, Ludwig van;Piano Sonata;Classical;Classical;0.0049;581.0503;588.2029931972789
+RWC_C029;C;29;5;4;"""Träumerei"" from Suite ""Kinderszenen"", Op.15";Norio Shimizu;;;;;Pf;;Schumann, Robert Alexander;Pieces for Piano;Classical;Romantic;0.0063;139.089;143.0908843537415
+RWC_C030;C;30;5;5;Nocturne No.2 in Eb major, Op.9 No.2;Yuriko Furuichi;;;;;Pf;;Chopin, Frédéric François;Nocturne for Piano;Classical;Romantic;0.0104;237.099;240.87591836734697
+RWC_C031;C;31;5;6;Etude in E major, Op.10 No.3;Miki Narai;;;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Classical;Romantic;0.08;250.3227;254.32192743764173
+RWC_C032;C;32;5;7;Etude in F minor, Op.25 No.2;Yuriko Furuichi;;;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Classical;Romantic;0.0114;103.2417;107.66485260770976
+RWC_C033;C;33;5;8;"Polonaise No.6 in Ab major, Op.53, ""Héroïque""";Mutsuko Tajima;;;;;Pf;;Chopin, Frédéric François;Polonaise for Piano;Classical;Romantic;0.0098;399.3992;403.35879818594105
+RWC_C034;C;34;5;9;"""La Campanella"" from ""Grandes Études de Paganini""";Naoko Matsuoka;;;;;Pf;;Liszt, Franz;Pieces for Piano;Classical;Romantic;0.0076;302.6242;307.10054421768706
+RWC_C035A;C;35A;5;10;Three Gymnopédies, No.1;Norio Shimizu;;;;;Pf;;Satie, Erik;Pieces for Piano;Classical;Romantic;0.0122;221.9828;227.2148752834467
+RWC_C035B;C;35B;5;11;Three Gymnopédies, No.2;Norio Shimizu;;;;;Pf;;Satie, Erik;Pieces for Piano;Classical;Romantic;0.009;177.3308;179.3965986394558
+RWC_C035C;C;35C;5;12;Three Gymnopédies, No.3;Norio Shimizu;;;;;Pf;;Satie, Erik;Pieces for Piano;Classical;Romantic;0.0054;161.0362;166.28399092970523
+RWC_C036;C;36;6;1;6 Sonatas and Partitas for Unaccompanied Violin No.6, Partita No.3 in E major, BWV 1006, 3. Gavotte en Rondeau;Michi Mizutori;;;;;Vn;;Bach, Johann Sebastian;Violin Partita;Classical;Baroque;0.0521;205.6432;210.0319954648526
+RWC_C037;C;37;6;2;"Violin Sonata No.5 in F major, Op.24, ""Spring"", 3rd mvmt.";Michi Mizutori;;;;;Vn, Pf;;Beethoven, Ludwig van;Violin Sonata;Classical;Classical;0.0091;69.895;75.55947845804988
+RWC_C038;C;38;6;3;24 Caprices, Op.1 No.24 in A minor;Michi Mizutori;;;;;Vn;;Paganini, Niccolò;Caprices for Violin;Classical;Romantic;0.0185;315.5004;319.1370068027211
+RWC_C039;C;39;6;4;Violin Sonata in A major, 4th mvmt.;Michi Mizutori;;;;;Vn, Pf;;Franck, César;Violin Sonata;Classical;Romantic;0.019;398.019;401.96299319727893
+RWC_C040;C;40;6;5;"Meditation from ""Thaïs""";Michi Mizutori;;;;;Vn, Pf;;Massenet, Jules;Meditation for Violin and Piano;Classical;Romantic;0.0;298.9105;304.35
+RWC_C041;C;41;6;6;Cello Suite No.1 in G major, BWV 1007, 1. Prelude;Hitoshi Miyazawa;;;;;Vc;;Bach, Johann Sebastian;Cello Suite;Classical;Baroque;0.0;151.3535;157.43
+RWC_C042;C;42;6;7;"""Le Cygne"" from Suite ""Le Carnaval des Animaux""";Hitoshi Miyazawa;;;;;Vc, Pf;;Saint-Saëns, Camille;Fantasia for Cello and Piano;Classical;Romantic;0.0114;145.8794;149.77598639455783
+RWC_C043;C;43;6;8;Sicilienne, Op.78;Hidehiko Watase;;;;;Fl, Pf;;Fauré, Gabriel;Siciliana for Flute and Piano;Classical;Romantic;0.0095;244.5061;247.6439909297052
+RWC_C044;C;44;6;9;"""The Flight of the Bumble Bee""";Hidehiko Watase;;;;;Fl, Pf;;Rimski-Korsakov, Nikolay;Theatre Music Arrangement;Classical;Romantic;0.025;58.2705;61.84
+RWC_C045;C;45;6;10;"Air ""Ombra mai fu"" (Largo) from ""Serse"" (Xerxes)";Rihoko Yanagisawa;Female;Italian;;;Orch;;Handel, George Frideric;Theatre Music Arrangement;Classical;Baroque;0.0082;164.9067;167.6070068027211
+RWC_C046;C;46;6;11;"Air 14 (Queen of the Night's Air) ""Der Hölle Rache kocht in meinem Herzen"" from ""Die Zauberflöte"" (The Magic Flute), KV 620";Makiko Saito;Female;German;;;Orch;;Mozart, Wolfgang Amadeus;Theatre Music;Classical;Classical;0.0675;182.1431;186.66698412698412
+RWC_C047;C;47;6;12;"""Ständchen"" (Serenade) from ""Schwanengesang"", D.957";Asuka Ueda;Male;German;;;Pf;;Schubert, Franz Peter;Lieder;Classical;Romantic;0.0073;220.6476;224.29891156462585
+RWC_C048;C;48;6;13;"""Der Lindenbaum"" from ""Winterreise"", Op.89/D.911";Tomihiko Kotaka;Male;German;;;Pf;;Schubert, Franz Peter;Lieder;Classical;Romantic;0.029;260.0171;264.4381179138322
+RWC_C049;C;49;6;14;"Air ""La donna è mobile qual piuma al vento"" from ""Rigoletto""";Ryosuke Hagino;Male;Italian;;;Orch;;Verdi, Giuseppe;Thatre Music Arrangment;Classical;Romantic;0.0506;126.6184;129.54700680272109
+RWC_C050;C;50;6;15;"Micaela's Air ""Je dis que rien ne m'épouvante"" from ""Carmen""";Hiromi Tohyama;Female;French;;;Orch;;Bizet, Georges;Thatre Music Arrangment;Classical;Romantic;0.102;300.176;305.73292517006803
+RWC_J001;J;1;1;1;Jive (Piano Solo);Makoto Nakamura;;;;Instrumentation 1;Pf;;;;Jazz;;0.02;198.6177;200.54199546485265
+RWC_J002;J;2;1;2;For Two (Piano Solo);Makoto Nakamura;;;;Instrumentation 1;Pf;;;;Jazz;;0.0201;367.8476;373.6270068027211
+RWC_J003;J;3;1;3;Lounge Away (Piano Solo);Takao Nagai;;;;Instrumentation 1;Pf;;;;Jazz;;0.0195;153.4563;156.94401360544217
+RWC_J004;J;4;1;4;Crescent Serenade (Piano Solo);Makoto Nakamura;;;;Instrumentation 1;Pf;;;;Jazz;;0.0241;162.2121;165.38698412698412
+RWC_J005;J;5;1;5;Abyss (Piano Solo);Takao Nagai;;;;Instrumentation 1;Pf;;;;Jazz;;0.0597;178.1841;186.4609977324263
+RWC_J006;J;6;1;6;Jive (Guitar Solo);Hiroo Chubachi;;;;Instrumentation 2;Gt;;;;Jazz;;0.02;160.7474;165.9190022675737
+RWC_J007;J;7;1;7;For Two (Guitar Solo);Hiroo Chubachi;;;;Instrumentation 2;Gt;;;;Jazz;;0.0612;208.4978;214.30698412698413
+RWC_J008;J;8;1;8;Lounge Away (Guitar Solo);Satoshi Yamamoto;;;;Instrumentation 2;Gt;;;;Jazz;;0.0354;216.9615;219.6409977324263
+RWC_J009;J;9;1;9;Crescent Serenade (Guitar Solo);Satoshi Yamamoto;;;;Instrumentation 2;Gt;;;;Jazz;;0.037;213.8558;216.29900226757368
+RWC_J010;J;10;1;10;Abyss (Guitar Solo);Hiroo Chubachi;;;;Instrumentation 2;Gt;;;;Jazz;;0.0404;197.0482;198.74700680272107
+RWC_J011;J;11;1;11;Jive (Vib & Piano Duo);Masahiro Kanno & Takao Nagai;;;;Instrumentation 3;Vib, Pf;;;;Jazz;;0.0805;239.376;243.66056689342403
+RWC_J012;J;12;1;12;For Two (Flute & Piano Duo);Kazuma Ito & Hiroshi Haji;;;;Instrumentation 3;Fl, Pf;;;;Jazz;;0.0098;328.4811;332.6291609977324
+RWC_J013;J;13;1;13;Lounge Away (Vib & Piano Duo);Masahiro Kanno & Takao Nagai;;;;Instrumentation 3;Vib, Pf;;;;Jazz;;0.0071;221.3061;225.3550113378685
+RWC_J014;J;14;1;14;Crescent Serenade (Piano & Bass Duo);MN & NK;;;;Instrumentation 3;Pf, Bs;;;;Jazz;;0.3294;278.3216;280.41038548752834
+RWC_J015;J;15;1;15;Abyss (Piano & Bass Duo);MN & NK;;;;Instrumentation 3;Pf, Bs;;;;Jazz;;0.045;271.6502;272.89916099773245
+RWC_J016;J;16;2;1;Jive (Piano Trio);Makoto Nakamura Trio;;;;Instrumentation 4;Pf, Bs, Dr;;;;Jazz;;0.037;278.6997;281.9436507936508
+RWC_J017;J;17;2;2;For Two (Piano Trio);Makoto Nakamura Trio;;;;Instrumentation 4;Pf, Bs, Dr;;;;Jazz;;0.0066;407.5683;409.92124716553286
+RWC_J018;J;18;2;3;Lounge Away (Piano Trio);HIS Trio;;;;Instrumentation 4;Pf, Bs, Dr;;;;Jazz;;0.0555;315.0679;320.4768934240363
+RWC_J019;J;19;2;4;Crescent Serenade (Piano Trio);HIS Trio;;;;Instrumentation 4;Pf, Bs, Dr;;;;Jazz;;0.0232;310.7302;313.325873015873
+RWC_J020;J;20;2;5;Abyss (Piano Trio);Takao Nagai Trio;;;;Instrumentation 4;Pf, Bs, Dr;;;;Jazz;;0.0222;336.254;339.2690022675737
+RWC_J021;J;21;2;6;Jive (Piano Trio & Tp);Rick's;;;;Instrumentation 5;Pf, Bs, Dr, Tp;;;;Jazz;;0.0196;272.9854;276.3509977324263
+RWC_J022;J;22;2;7;For Two (Piano Trio & Tp);Rick's;;;;Instrumentation 5;Pf, Bs, Dr, Tp;;;;Jazz;;0.0209;433.0768;434.24648526077095
+RWC_J023;J;23;2;8;Lounge Away (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;Jazz;;0.0653;275.4902;281.2928798185941
+RWC_J024;J;24;2;9;Crescent Serenade (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;Jazz;;0.0281;290.0985;293.21
+RWC_J025;J;25;2;10;Abyss (Piano Trio & Ts);Tetsuya Ozawa Quartet;;;;Instrumentation 5;Pf, Bs, Dr, Ts;;;;Jazz;;0.0163;378.5491;380.59401360544217
+RWC_J026;J;26;3;1;Jive (Octet);YOU Band;;;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;Jazz;;0.0189;206.2977;209.1129931972789
+RWC_J027;J;27;3;2;For Two (Octet);YOU Band;;;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;Jazz;;0.02;223.4921;225.4830158730159
+RWC_J028;J;28;3;3;Lounge Away (Octet);YOU Band;;;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;Jazz;;0.0996;212.4394;214.9860090702948
+RWC_J029;J;29;3;4;Crescent Serenade (Octet);YOU Band;;;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;Jazz;;0.0648;244.049;245.72968253968253
+RWC_J030;J;30;3;5;Abyss (Octet);YOU Band;;;;Instrumentation 6;Pf, Bs, Dr, Gt, As, Bar, Ts, Ts;;;;Jazz;;0.0204;233.1574;237.54655328798185
+RWC_J031;J;31;3;6;Jive (Piano Trio & Vib);Masahiro Kanno Quartet;;;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;Jazz;;0.0204;303.8756;307.1639909297052
+RWC_J032;J;32;3;7;For Two (Piano Trio & Vib);Masahiro Kanno Quartet;;;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;Jazz;;0.0327;335.8766;338.21299319727893
+RWC_J033;J;33;3;8;Lounge Away (Piano Trio & Flute);Kazuma Ito Quartet;;;;Instrumentation 7;Pf, Bs, Dr, Fl;;;;Jazz;;0.018;249.661;251.6309977324263
+RWC_J034;J;34;3;9;Crescent Serenade (Piano Trio & Flute);Kazuma Ito Quartet;;;;Instrumentation 7;Pf, Bs, Dr, Fl;;;;Jazz;;0.0336;348.7202;350.8990022675737
+RWC_J035;J;35;3;10;Abyss (Piano Trio & Vib);Masahiro Kanno Quartet;;;;Instrumentation 7;Pf, Bs, Dr, Vib;;;;Jazz;;0.0522;313.8286;314.8059863945578
+RWC_J036;J;36;4;1;Dance Together;Nathan Ingram III;Male;English;;Style (Vocal jazz);Pf, Bs, Dr, Tp, Vo;;;;Jazz;;0.1295;217.7393;220.5239909297052
+RWC_J037;J;37;4;2;Aura Lee;Aoi Kato;Female;English;;Style (Vocal jazz);Pf, Bs, Dr, Vo;;;;Jazz;;0.0163;139.7624;143.1129931972789
+RWC_J038;J;38;4;3;The Entertainer;HH Band;;;;Style (Big band jazz);Pf, Bs, Dr, Gt, Tp, Tb, Ts, As, Bar, Fl;;;;Jazz;Swing;0.0472;183.3092;186.04199546485265
+RWC_J039;J;39;4;4;Mo' Trippin';HH Band;;;;Style (Big band jazz);Pf, Bs, Dr, Gt, Tp, Tb, Ts, As, Bar, Fl;;;;Jazz;Fusion;0.0128;228.6585;231.9840136054422
+RWC_J040;J;40;4;5;Image;Tetsuya Ozawa Quartet;;;;Style (Modal jazz);Pf, Bs, Dr, Ts;;;;Jazz;Modal jazz;0.5067;458.0136;459.1760090702948
+RWC_J041;J;41;4;6;Friction;Yutaka Umitsuki Quartet;;;;Style (Modal jazz);Pf, Bs, Dr, Ts;;;;Jazz;Modal jazz;0.0163;360.9143;363.8829931972789
+RWC_J042;J;42;4;7;Silent Night;U's Band;;;;Style (Funky jazz);Pf, Bs, Dr, Gt, Ts, As, Bar;;;;Jazz;Funky jazz;0.0299;339.4759;341.6059863945578
+RWC_J043;J;43;4;8;Down To The Earth;Yutaka Umitsuki Quartet;;;;Style (Funky jazz);Pf, Bs, Dr, Ts;;;;Jazz;Funky jazz;0.0356;292.6759;293.89399092970524
+RWC_J044;J;44;4;9;Joyful, Joyful, We Adore Thee;K's Band;;;;Style (Free jazz);Pf, Bs, Dr, Gt, Ts, Fl, Bar;;;;Jazz;Free jazz;0.0689;256.3918;268.8580045351474
+RWC_J045;J;45;4;10;Morning View;22 Project Band;;;;Fusion;Pf, Kb, Bs, Dr, Gt, Perc;;;;Jazz;Fusion;0.0494;259.3205;263.5907029478458
+RWC_J046;J;46;4;11;Formula;22 Project Band;;;;Fusion;Pf, Kb, Bs, Dr, Gt, EWI;;;;Jazz;Fusion;0.0158;198.9994;202.7140589569161
+RWC_J047;J;47;4;12;Morning Star;22 Project Band;;;;Fusion;Kb, Bs, Dr, Gt;;;;Jazz;Fusion;0.0244;219.52;223.5524716553288
+RWC_J048;J;48;4;13;Latin Sacrifice;22 Project Band;;;;Fusion;Pf, Kb, Bs, Dr, Gt, Perc;;;;Jazz;Fusion;0.0348;237.5721;240.6016553287982
+RWC_J049;J;49;4;14;Wolf;22 Project Band;;;;Fusion;Kb, Kb, Bs, Dr, Gt;;;;Jazz;Fusion;0.0305;177.4701;180.6136507936508
+RWC_J050;J;50;4;15;Bird Of Paradise;22 Project Band;;;;Fusion;Kb, Bs, Dr, Ss, Ts, Perc;;;;Jazz;Fusion;0.019;238.7331;241.54530612244895
+RWC_G001;G;1;1;1;Wasting Time;Shinya Iguchi;Male;English;;;;;Shinya Iguchi;;Popular;Popular;0.0211;346.5224;348.61278911564625
+RWC_G002;G;2;1;2;Forget about It;Shinya Iguchi;Male;English;;;;;Shinya Iguchi;;Popular;Popular;0.1327;256.6449;260.63580498866213
+RWC_G003;G;3;1;3;In Your Arms;Donna Burke;Female;English;;;;;Suguru Kawagoshi;;Popular;Popular;0.0102;223.1496;227.28675736961452
+RWC_G004;G;4;1;4;Hold On;Shinya Iguchi;Male;English;;;;;Shinya Iguchi;;Popular;Ballade;0.0183;307.3306;313.3610657596372
+RWC_G005;G;5;1;5;Taking Your Heart;Shinya Iguchi;Male;English;;;;;Shinya Iguchi;;Popular;Ballade;0.0218;361.8133;367.5926984126984
+RWC_G006;G;6;1;6;Let's Take Some Time ... To Think It Over;Betty;Female;English;;;;;Suguru Kawagoshi;;Popular;Ballade;0.1814;238.4327;241.8472335600907
+RWC_G007;G;7;1;7;Everyday Lovin';Donna Burke;Female;English;;;;;Takeshi Wada;;Rock;Rock;0.02;252.6099;256.5539229024943
+RWC_G008;G;8;1;8;Living in a World of Destruction;Jeff Manning;Male;English;;;;;Shigekazu Kamaki;;Rock;Rock;0.0493;201.0612;204.25480725623584
+RWC_G009;G;9;1;9;Waiting for Your Love;Donna Burke;Female;English;;;;;Suguru Kawagoshi;;Rock;Rock;0.0907;205.5953;208.14111111111112
+RWC_G010;G;10;1;10;Lost in My Dreams;Jeff Manning;Male;English;;;;;Shigekazu Kamaki;;Rock;Heavy Metal;0.0156;226.5368;230.405306122449
+RWC_G011;G;11;1;11;21st Century;Donna Burke;Female;English;;;;;Masuhiro Goto;;Rock;Heavy Metal;0.0396;298.5157;302.3052154195011
+RWC_G012;G;12;1;12;Woman;Betty;Female;English;;;;;Suguru Kawagoshi;;Rock;Heavy Metal;0.1771;197.3159;201.154693877551
+RWC_G013;G;13;2;1;Guess Again;Donna Burke;Female;English;;;;;Shigekazu Kamaki;;Dance;Rap / Hip-Hop;0.0186;218.2211;220.6883219954649
+RWC_G014;G;14;2;2;Tuesday Morning;Jeff Manning;Male;English;;;;;Ichio Yamamoto;;Dance;Rap / Hip-Hop;0.0205;182.4217;185.46691609977324
+RWC_G015;G;15;2;3;Rocket in My Pocket;Greg Irwin;Male;English;;;;;Shingo Katsuta;;Dance;Rap / Hip-Hop;0.0118;307.4786;309.9533560090703
+RWC_G016;G;16;2;4;Life Gage;Nishi feat.T;Female;;;;;;Kazuo Nishi;;Dance;House;0.016;186.5878;189.86804988662132
+RWC_G017;G;17;2;5;Tonight's the Night for Love;Donna Burke;Female;English;;;;;Ichio Yamamoto;;Dance;House;0.0162;180.9705;184.5314058956916
+RWC_G018;G;18;2;6;Anything for Your Love;Jeff Manning;Male;English;;;;;Ichio Yamamoto;;Dance;House;0.0694;179.0204;184.96290249433108
+RWC_G019;G;19;2;7;Asia 2;Kazuo Nishi;Male;;;;;;Kazuo Nishi;;Dance;Techno;0.0156;217.4122;220.0646031746032
+RWC_G020;G;20;2;8;Keep Running;Donna Burke;Female;English;;;;;Ichio Yamamoto;;Dance;Techno;0.0178;158.1959;160.65938775510205
+RWC_G021;G;21;2;9;Stf;Ichio;;;;;;;Ichio Yamamoto;;Dance;Techno;0.0175;201.4795;204.2320634920635
+RWC_G022;G;22;2;10;Get on up and Dance;Donna Burke;Female;English;;;;;Emiko Yamanaka;;Dance;Funk;0.0224;272.098;274.89072562358274
+RWC_G023;G;23;2;11;Feeling the Hate;Greg Irwin;Male;English;;;;;Junji Miyazaki;;Dance;Funk;0.0304;272.849;277.2712698412698
+RWC_G024;G;24;2;12;Trustin' in Your Groove;Greg Irwin;Male;English;;;;;Takeshi Wada;;Dance;Funk;0.0225;236.5633;242.09913832199547
+RWC_G025;G;25;2;13;It's Time to Fly;Donna Burke;Female;English;;;;;Suguru Kawagoshi;;Dance;Soul / R&B;0.022;238.1903;241.79526077097503
+RWC_G026;G;26;2;14;Secret Dreams;Donna Burke;Female;English;;;;;Suguru Kawagoshi;;Dance;Soul / R&B;0.0261;225.3874;228.16204081632657
+RWC_G027;G;27;2;15;Suddenly;Greg Irwin;Male;English;;;;;Shigenobu Okawa;;Dance;Soul / R&B;0.1117;211.5048;214.88367346938776
+RWC_G028;G;28;3;1;Wind Up;HH Band;;;;;;;Hiroshi Haji;;Jazz;Big Band;0.0051;199.3491;202.59204081632652
+RWC_G029;G;29;3;2;Bubble;HH Band;;;;;;;Hiroshi Haji;;Jazz;Big Band;0.0095;159.649;164.23904761904762
+RWC_G030;G;30;3;3;Kitchen;HH Band;;;;;;;Hiroshi Haji;;Jazz;Big Band;0.0087;191.6111;194.72333333333333
+RWC_G031;G;31;3;4;Azure;Makoto Nakamura Trio;;;;;;;Hiroshi Haji;;Jazz;Modern Jazz;0.0062;255.5755;258.8358276643991
+RWC_G032;G;32;3;5;Chuggin';Takao Nagai Trio;;;;;;;Hiroshi Haji;;Jazz;Modern Jazz;0.0134;268.4245;273.3272335600907
+RWC_G033;G;33;3;6;The Ramp;H's Band;;;;;;;Hiroshi Haji;;Jazz;Modern Jazz;0.1207;194.249;196.82630385487528
+RWC_G034;G;34;3;7;Tea Break;22 Project Band;;;;;;;Bunmei Ogawa;;Jazz;Fusion;0.015;287.7939;291.2151247165533
+RWC_G035;G;35;3;8;Gypsy Eyes;22 Project Band;;;;;;;Kenji Nakamura;;Jazz;Fusion;0.0589;188.3755;192.1939909297052
+RWC_G036;G;36;3;9;Wind Flower;22 Project Band;;;;;;;Bunmei Ogawa;;Jazz;Fusion;0.0247;266.1551;270.0586848072562
+RWC_G037;G;37;4;1;Musica Nova;Bossa Novas;;;;;;;Hiroshi Haji;;Latin;Bossa Nova;0.0076;250.462;251.93424036281175
+RWC_G038;G;38;4;2;Misty Rouge;Bossa Novas;;;;;;;Hiroshi Haji;;Latin;Bossa Nova;0.0421;192.0058;196.3657823129252
+RWC_G039;G;39;4;3;Jullia;S Project Band;Female;English;;;;;Bunmei Ogawa;;Latin;Bossa Nova;0.8998;205.298;209.40643990929703
+RWC_G040;G;40;4;4;Lovely Women;Sambars;;;;;;;Kenji Nakamura;;Latin;Samba;0.1306;212.0163;215.65952380952385
+RWC_G041;G;41;4;5;Dance to the Samba;Sambars;Female, Vocal group (mixed);English;;;;;Bunmei Ogawa;;Latin;Samba;0.0196;247.4551;249.19938775510204
+RWC_G042;G;42;4;6;Sway So Gentle;Sambars;;;;;;;Kenji Nakamura;;Latin;Samba;0.0175;177.3076;181.4134693877551
+RWC_G043;G;43;4;7;Moon Struck;On Band;;;;;;;Bunmei Ogawa;;Latin;Reggae;0.0234;181.9592;184.88609977324265
+RWC_G044;G;44;4;8;Eric's Reggae;On Band;;;;;;;Kenji Nakamura;;Latin;Reggae;0.1611;192.7837;195.8211337868481
+RWC_G045;G;45;4;9;Where Are You?;On Band;Male;English;;;;;Bunmei Ogawa;;Latin;Reggae;0.1132;226.1714;229.6067573696145
+RWC_G046;G;46;4;10;Tango Noir;Tango House;;;;;;;Hiroshi Haji;;Latin;Tango;0.1176;149.9661;153.5369387755102
+RWC_G047;G;47;4;11;Kittenish Tango;Tango House;;;;;;;Hiroshi Haji;;Latin;Tango;0.1531;184.9143;188.7636507936508
+RWC_G048;G;48;4;12;Tango in Twilight;Tango House;;;;;;;Hiroshi Haji;;Latin;Tango;0.007;175.4939;178.44739229024944
+RWC_G049;G;49;5;1;"""Water Music"" Suite No.2 in D major, HWV 349, 2. Alla Hornpipe";Tokyo City Philharmonic Orchestra;;;;;Orch;;Handel, George Frideric;Suite;Classical;Baroque;0.0559;195.0708;200.21891156462584
+RWC_G050;G;50;5;2;"""Egmont"" Overture, Op.84";Tokyo City Philharmonic Orchestra;;;;;Orch;;Beethoven, Ludwig van;Theatre Music;Classical;Classical;0.0531;508.7918;513.5192743764172
+RWC_G051;G;51;5;3;"""Die Meistersinger von Nürnberg"", Prelude to Act 1";Tokyo City Philharmonic Orchestra;;;;;Orch;;Wagner, Richard;Theatre Music;Classical;Romantic;0.0222;602.4134;608.0680045351473
+RWC_G052;G;52;5;4;"""Alborada del Gracioso""";Tokyo City Philharmonic Orchestra;;;;;Orch;;Ravel, Maurice;Piano Suite Arrangement;Classical;Modern;0.0361;450.9489;456.8193197278912
+RWC_G053;G;53;5;5;"""Jupiter"" from Suite ""The Planets"", Op.32";Tokyo City Philharmonic Orchestra;;;;;Orch;;Holst, Gustav;Suite;Classical;Modern;0.3224;472.0007;475.56333333333333
+RWC_G054;G;54;5;6;"""The Stars and Stripes Forever""";Tokyo Kosei Wind Orchestra;;;;;WindEns;;Sousa, John Philip;March;March;Brass Band;0.0174;215.6524;222.4187074829932
+RWC_G055;G;55;5;7;"""Radetzky March"", Op.228";Tokyo Kosei Wind Orchestra;;;;;WindEns;;Strauss I, Johann;March;March;Brass Band;0.0069;147.4888;154.68609977324263
+RWC_G056;G;56;5;8;"""Pomp and Circumstance Marches"", Op.39, March No.1";Tokyo Kosei Wind Orchestra;;;;;WindEns;;Elgar, Edward;March;March;Brass Band;0.021;394.498;401.3119954648526
+RWC_G057;G;57;6;1;Toccata and Fugue in D minor, BWV 565;Tetsuya Kan;;;;;Org;;Bach, Johann Sebastian;Toccata e Fugue for Organ;Classical;Baroque;0.009;499.4612;506.6190022675737
+RWC_G058A;G;58A;6;2;Two-Part Inventions, No.1 in C major, BWV 772;Atsuko Watanabe;;;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Classical;Baroque;0.0166;83.351;88.67897959183674
+RWC_G058B;G;58B;6;3;Two-Part Inventions, No.4 in D minor, BWV 775;Atsuko Watanabe;;;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Classical;Baroque;0.0161;48.4078;52.78387755102041
+RWC_G058C;G;58C;6;4;Two-Part Inventions, No.14 in Bb major, BWV 785;Atsuko Watanabe;;;;;Pf;;Bach, Johann Sebastian;Invention for Keyboard;Classical;Baroque;0.0225;78.743;83.18875283446712
+RWC_G059;G;59;6;5;Rondo in D major, KV 485;Yuriko Furuichi;;;;;Pf;;Mozart, Wolfgang Amadeus;Rondo for Piano;Classical;Classical;0.0205;291.7061;293.9329931972789
+RWC_G060;G;60;6;6;"String Quartet No.77 in C major, Op.76 No.3, Hob.III:77, ""Kaiser"", 2nd mvmt.";Wood Land Notes;;;;;;;Haydn, Franz Joseph;String Quartet;Classical;Classical;0.0776;424.3918;426.8621315192744
+RWC_G061;G;61;6;7;String Quartet No.1 in D major, Op.11, 2nd mvmt. (Andante Cantabile);Wood Land Notes;;;;;;;Tchaikovsky, Pyotr Ilich;String Quartet;Classical;Romantic;0.0624;367.2408;369.83138321995466
+RWC_G062;G;62;6;8;Etude in Gb major, Op.10/5;Yuri Mineo;;;;;Pf;;Chopin, Frédéric François;Studies (Etuede) for Piano;Classical;Romantic;0.0196;111.897;114.2190022675737
+RWC_G063;G;63;6;9;"""Clair de Lune"" from ""Suite Bergamasque""";Yuriko Furuichi;;;;;Pf;;Debussy, Achille-Claude;Suite for Piano;Classical;Modern;0.0175;320.4571;323.3439909297052
+RWC_G064;G;64;7;1;Blue Print;22 Project Band;;;;;;;Hiroshi Takayama;;World;Blues;0.1686;198.7802;202.55954648526077
+RWC_G065;G;65;7;2;Got'em Both;22 Project Band;;;;;;;Hiroshi Takayama;;World;Blues;0.0443;208.302;212.027641723356
+RWC_G066;G;66;7;3;Dear John's Letter;22 Project Band;Male;English;;;;;Hiroshi Takayama;;World;Blues;0.1313;232.8961;235.457641723356
+RWC_G067;G;67;7;4;Dream Angel;Donna Burke;Female;English;;;;;Kazuo Nishi;;World;Folk;0.0784;238.7519;243.42798185941044
+RWC_G068;G;68;7;5;Grassy Dance;Shigekazu Kamaki;;;;;;;Shigekazu Kamaki;;World;Folk;0.0105;189.0126;191.9260090702948
+RWC_G069;G;69;7;6;What Should I Tell Them?;Greg Irwin;Male;English;;;;;Kazuo Nishi;;World;Folk;0.0207;253.1381;256.77299319727894
+RWC_G070;G;70;7;7;Bjc Fiddle Rag;Banjo Club;;;;;;;Satoshi Hara;;World;Country;0.0045;213.8151;217.6427664399093
+RWC_G071;G;71;7;8;Desperate Little Man;Banjo Club;Male;English;;;;;Satoshi Hara;;World;Country;0.0062;216.5493;223.70589569161
+RWC_G072;G;72;7;9;I Don't Love Nobody;Banjo Club;;;;;;;Satoshi Hara;;World;Country;0.0029;269.4872;272.43795918367346
+RWC_G073;G;73;7;10;Not Enough Words;22 Project Band;Female;English;;;;;Bunmei Ogawa;;World;Gospel;0.0758;251.8531;257.80072562358276
+RWC_G074;G;74;7;11;With My Jalopy;22 Project Band;Male;English;;;;;Kenji Nakamura;;World;Gospel;0.0229;262.0836;270.75804988662134
+RWC_G075;G;75;7;12;My Faith;22 Project Band;;;;;;;Kenji Nakamura;;World;Gospel;0.0388;170.4898;173.48385487528344
+RWC_G076;G;76;8;1;Havini Tishi Tishi;Fresh Jumbe;Male;;;;;;Fresh Jumbe;;World;African;0.0125;190.2306;195.37297052154196
+RWC_G077;G;77;8;2;Kasheki;Fresh Jumbe;Male;;;;;;Fresh Jumbe;;World;African;0.5108;238.8816;242.56378684807257
+RWC_G078;G;78;8;3;Mwanambuzi;Fresh Jumbe;Male;;;;;;Fresh Jumbe;;World;African;0.1408;260.6204;264.02816326530615
+RWC_G079;G;79;8;4;Raga Charukesi - Alap;Shanti;;;;;;;(Improvisation);;World;Indian;0.3184;293.2082;296.0756462585034
+RWC_G080;G;80;8;5;Raga Charukesi - Vilambit Teentaal;Shanti;;;;;;;(Improvisation);;World;Indian;0.2612;295.8796;297.1912925170068
+RWC_G081;G;81;8;6;Raga Charukesi - Drut Teentaal;Shanti;;;;;;;(Improvisation);;World;Indian;0.2204;301.6408;302.90755102040816
+RWC_G082;G;82;8;7;Sevillanas;David Lainfiesta;;;;;;;David Lainfiesta;;World;Flamenco;0.0125;186.6367;189.57698412698412
+RWC_G083;G;83;8;8;Tangos;Miguel de Badajoz;Male;Spanish;;;;;Miguel de Badajoz;;World;Flamenco;0.0141;310.498;315.8609977324263
+RWC_G084;G;84;8;9;Rumba;David Lainfiesta;;;;;;;David Lainfiesta;;World;Flamenco;0.0232;219.3633;223.1370068027211
+RWC_G085;G;85;8;10;"Rue Saint-Vincent ""Rose Blanche""";Monden Momo;Female;French;;;;;Aristide Bruant;;Vocal;Chanson;0.0116;235.9844;240.3990929705215
+RWC_G086;G;86;8;11;Le Temps Des Cerises;Monden Momo;Female;French;;;;;Antoine Renard;;Vocal;Chanson;0.02;228.4147;232.238231292517
+RWC_G087;G;87;8;12;Je Te Veux;Monden Momo;Female;French;;;;;Erik Satie;;Vocal;Chanson;0.0065;215.0458;217.39936507936508
+RWC_G088;G;88;8;13;Santa Lucia;Jun Aoki;Male;Italian;;;;;Cottrau;;Vocal;Canzone;0.013;203.0388;206.3478004535147
+RWC_G089;G;89;8;14;O Sole Mio;Jun Aoki;Male;Italian;;;;;Edoardo Di Capua;;Vocal;Canzone;0.013;224.5362;228.04226757369617
+RWC_G090;G;90;8;15;Turna A Surriento;Jun Aoki;Male;Italian;;;;;Ernesto De Curtis;;Vocal;Canzone;0.0145;275.2145;278.9826984126984
+RWC_G091;G;91;9;1;Tairyo Bune;Kazuo Nishi;Male;Japanese;;;;;Hiroshi Takayama;;Traditional Japanese;Popular (Enka);0.016;264.6122;268.04600907029476
+RWC_G092;G;92;9;2;Kita no Komoriuta;Kazuo Nishi;Male;Japanese;;;;;Kazuo Nishi;;Traditional Japanese;Popular (Enka);0.021;252.4183;253.8090022675737
+RWC_G093;G;93;9;3;Ai Hitohira;Hiromi Yoshii;Female;Japanese;;;;;Kazuo Nishi;;Traditional Japanese;Popular (Enka);0.0232;250.9959;252.88
+RWC_G094;G;94;9;4;Sado Okesa;Machi Watanabe;Female;Japanese;;;;;;;Traditional Japanese;Folk (Min'you);0.0243;183.2571;187.28698412698412
+RWC_G095;G;95;9;5;Nambu Ushioiuta;Machi Watanabe;Female;Japanese;;;;;;;Traditional Japanese;Folk (Min'you);0.0259;197.805;200.98530612244895
+RWC_G096;G;96;9;6;Soran Bushi;Machi Watanabe;Female;Japanese;;;;;;;Traditional Japanese;Folk (Min'you);0.0071;126.6791;129.8357142857143
+RWC_G097;G;97;9;7;Hyojo Etenraku;Hougakudo;;;;;;;;;Traditional Japanese;Court (Gagaku);0.1429;263.9673;265.22156462585036
+RWC_G098;G;98;9;8;Taishikicho Gakkaen;Hougakudo;;;;;;;;;Traditional Japanese;Court (Gagaku);0.2612;339.9401;341.6480045351474
+RWC_G099;G;99;9;9;Taishikicho Chogeishi;Hougakudo;;;;;;;;;Traditional Japanese;Court (Gagaku);0.2857;246.9674;249.8770068027211
+RWC_G100;G;100;9;10;Precious Love;Dik;Vocal group ( 2 male + 2 female);English;;;;;Kazuo Nishi;;A Cappella;A Cappella;1.1878;190.8592;196.0770068027211
