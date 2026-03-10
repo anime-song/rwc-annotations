@@ -9,7 +9,7 @@ More (possibly uncurated) annotations are available in the archive repository: h
 | Subset | Annotations (Archive) | Annotations (Pre-processed, this repository) |
 |-------------------|---------|---------|
 | RWC-P | MIDI (aligned), Chords, Beats, Tempo, Structure, Melody (F0), Lyrics, Vocal and instrumental activity segments | MIDI (aligned), Beats, Chords |
-| RWC-R | MIDI (aligned), Beats, Tempo, Structure, Lyrics | BMIDI (aligned), eats |
+| RWC-R | MIDI (aligned), Beats, Tempo, Structure, Lyrics | MIDI (aligned), Beats |
 | RWC-C | MIDI (unaligned), MIDI (aligned), Beats, Structure, Lyrics | MIDI (aligned), Beats |
 | RWC-J | MIDI (aligned), Beats, Structure, Lyrics | MIDI (aligned), Beats |
 | RWC-G | MIDI (aligned), Beats, Structure, Lyrics | MIDI (aligned), Beats |
