@@ -28,13 +28,13 @@ def test_metadata_file_exists():
     ids=lambda p: str(p.relative_to(MELODY_DIR)),
 )
 def test_melody_format_header_and_nonempty(csv_path: Path):
-    df = pd.read_csv(csv_path, sep="\t")
+    df = pd.read_csv(csv_path, sep=";")
 
     assert df.shape[1] == 2, (
-        f"{csv_path} has {df.shape[1]} columns, expected 2 (time, f0)"
+        f"{csv_path} has {df.shape[1]} columns, expected 2 (t, f0)"
     )
 
-    expected_header = ["time", "f0"]
+    expected_header = ["t", "f0"]
     assert list(df.columns) == expected_header, (
         f"{csv_path} wrong header. Expected {expected_header}, got {list(df.columns)}"
     )
@@ -48,14 +48,14 @@ def test_melody_format_header_and_nonempty(csv_path: Path):
     ids=lambda p: str(p.relative_to(MELODY_DIR)),
 )
 def test_melody_time_numeric_nonnegative_and_strictly_increasing(csv_path: Path):
-    df = pd.read_csv(csv_path, sep="\t")
+    df = pd.read_csv(csv_path, sep=";")
 
-    t = pd.to_numeric(df["time"], errors="coerce")
-    assert t.notna().all(), f"{csv_path} has non-numeric time values"
-    assert (t >= 0).all(), f"{csv_path} has negative time values"
+    t = pd.to_numeric(df["t"], errors="coerce")
+    assert t.notna().all(), f"{csv_path} has non-numeric t values"
+    assert (t >= 0).all(), f"{csv_path} has negative t values"
 
     dt = t.diff().dropna()
-    assert (dt > 0).all(), f"{csv_path} time values are not strictly increasing"
+    assert (dt > 0).all(), f"{csv_path} t values are not strictly increasing"
 
 
 @pytest.mark.parametrize(
@@ -64,9 +64,9 @@ def test_melody_time_numeric_nonnegative_and_strictly_increasing(csv_path: Path)
     ids=lambda p: str(p.relative_to(MELODY_DIR)),
 )
 def test_melody_time_is_10ms_steps(csv_path: Path):
-    df = pd.read_csv(csv_path, sep="\t")
+    df = pd.read_csv(csv_path, sep=";")
 
-    t = pd.to_numeric(df["time"], errors="coerce")
+    t = pd.to_numeric(df["t"], errors="coerce")
     assert t.notna().all(), f"{csv_path} has non-numeric time values"
 
     # check first entry
@@ -88,7 +88,7 @@ def test_melody_time_is_10ms_steps(csv_path: Path):
     ids=lambda p: str(p.relative_to(MELODY_DIR)),
 )
 def test_melody_f0_nonnegative_and_plausible(csv_path: Path):
-    df = pd.read_csv(csv_path, sep="\t")
+    df = pd.read_csv(csv_path, sep=";")
 
     f0 = pd.to_numeric(df["f0"], errors="coerce")
     assert f0.notna().all(), f"{csv_path} has non-numeric f0 values"
@@ -106,9 +106,9 @@ def test_melody_f0_nonnegative_and_plausible(csv_path: Path):
     ids=lambda p: str(p.relative_to(MELODY_DIR)),
 )
 def test_melody_starts_at_zero(csv_path: Path):
-    df = pd.read_csv(csv_path, sep="\t")
+    df = pd.read_csv(csv_path, sep=";")
 
-    t = pd.to_numeric(df["time"], errors="coerce")
+    t = pd.to_numeric(df["t"], errors="coerce")
     assert t.notna().all(), f"{csv_path} has non-numeric time values"
 
     first_t = float(t.iloc[0])
