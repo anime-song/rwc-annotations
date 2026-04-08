@@ -12,6 +12,6 @@
 
 ## Format Specification
 
-- tab-separated file
-- Column 1: Beat positions in seconds
-- Column 2: Downbeat information
+- semicolon-separated file
+- Column 1 (t): Beat position in seconds
+- Column 2 (beat): Downbeat information
