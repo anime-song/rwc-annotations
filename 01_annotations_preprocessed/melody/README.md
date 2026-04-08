@@ -1,5 +1,10 @@
 # RWC Melody Annotations
 
+Currently, there are melody annotations for the RWC-P subcollection.
+
+**Note:** These annotations are limited to the singing voice in these tracks, i.e. if another instrument takes over the
+main melody, it will not be reflected in these annotations.
+
 ## History
 
 - Basis are the AIST annotations
