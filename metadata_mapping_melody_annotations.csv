@@ -1,4 +1,4 @@
-RWCID;MelodyTrackNo;MelodyTrackName;SemitoneOffset;comment
+RWCID;MIDITrackNo;MIDITrackName;SemitoneOffset;comment
 RWC_P001;5;MELODY;24;
 RWC_P002;4;MELODY;0;
 RWC_P003;4;MELODY;12;from 17 to 35 seconds one octave lower
@@ -29,14 +29,11 @@ RWC_P027;4;MELODY;12;
 RWC_P028;5;MELODY;12;
 RWC_P029;4;MELO;12;
 RWC_P030;4;MELODY;24;
-RWC_P031;3;Sub Vocal;24;not the main melody track
-RWC_P031;4;Melo;12;some octave inconsistancies around the one minute mark
+RWC_P031;4;Melo;12;some octave inconsistencies around the one minute mark
 RWC_P032;5;MELODY;12;
 RWC_P033;4;MELO;12;
 RWC_P034;4;MELODY 1;12;
 RWC_P035;4;MELO;12;
-RWC_P035;12;GT MELO 1;12;guitar melodies
-RWC_P035;13;GT MELO 2;12;guitar melodies
 RWC_P036;4;MELODY 1;12;
 RWC_P037;4;MELODY 1;0;
 RWC_P038;4;MELO;12;
@@ -75,7 +72,6 @@ RWC_P069;4;MELODY;0;
 RWC_P070;4;MELODY;12;
 RWC_P071;4;MELODY;12;
 RWC_P072;3;Melo;12;
-RWC_P073;3;Sub Melo;12;Not the main vocals
 RWC_P073;4;Melo;12;
 RWC_P074;3;Melo;12;
 RWC_P075;3;MELODY;0;
