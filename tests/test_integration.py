@@ -188,6 +188,28 @@ def test_annotation_filenames_match_metadata(kind: str):
     ), f"{kind} files are in the wrong collection folder: {wrong_subdirs}"
 
 
+def test_aligned_midi_available_for_every_metadata_rwcid():
+    """Check that each metadata track has an aligned MIDI file.
+
+    The aligned MIDI collection is expected to cover the full repository track
+    index, not only a subset such as RWC-P.
+
+    Examples
+    --------
+    If ``metadata.csv`` contains ``RWC_P001`` and ``RWC_C001``, files named
+    ``RWC_P001.mid`` and ``RWC_C001.mid`` are expected under
+    ``01_annotations_preprocessed/MIDI_aligned``. Missing either file is
+    expected to fail this test.
+    """
+    metadata_ids = set(METADATA["RWCID"])
+    midi_ids = {path.stem for path in annotation_files("MIDI_aligned")}
+
+    missing_ids = sorted(metadata_ids - midi_ids)
+    assert not missing_ids, (
+        f"MIDI_aligned is missing files for metadata RWCID values: {missing_ids}"
+    )
+
+
 @pytest.mark.parametrize("kind", CSV_ANNOTATION_KINDS)
 def test_annotation_durations_are_consistent_with_metadata(kind: str):
     """Check that annotation end times do not exceed metadata durations.
