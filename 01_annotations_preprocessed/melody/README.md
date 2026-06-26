@@ -12,6 +12,8 @@ main melody, it will not be reflected in these annotations.
     - converted the file format
     - added zeros if no melody present
     - filled zeros before first annotation and last annotation (i.e. the whole audio file has annotations)
+- 2026/06: (Stefan Balke and Arda Özgün)
+    - added `metadata_mapping_melody_annotations.csv`
 
 ## Format Specification
 
@@ -19,3 +21,7 @@ main melody, it will not be reflected in these annotations.
 - temporal resolution: 10 ms
 - Column 1 (t): time position in seconds
 - Column 2 (f0): Fundamental frequency in Hertz (zeros if no melody preset)
+
+## metadata_mapping_melody_annotations.csv
+
+This file specifies to which MIDI track in the aligned MIDIs the provided melody annotation (f0-trajectory) belongs.

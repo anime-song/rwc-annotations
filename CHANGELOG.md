@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.0.1
+
+- Add melody annotations
+- Add manual music start/end annotations
+- Add metadata for vocal-MIDI mapping (#260)
+
 ## v2.0.0
 
 - Initial version
