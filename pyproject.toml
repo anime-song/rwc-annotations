@@ -9,6 +9,7 @@ dependencies = []
 
 [dependency-groups]
 test = [
+    "black>=25.0",
     "numpy>=1.26",
     "pandas>=2.2",
     "pytest>=8.0",
@@ -17,6 +18,9 @@ test = [
 [tool.uv]
 package = false
 default-groups = ["test"]
+
+[tool.black]
+target-version = ["py310"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

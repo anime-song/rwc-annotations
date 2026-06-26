@@ -7,10 +7,25 @@ CHORD_FILES = sorted(CHORDS_DIR.rglob("*.csv"))  # change to *.lab if needed
 
 
 def test_chords_folder_exists():
+    """Check that the preprocessed chord annotation folder exists.
+
+    Examples
+    --------
+    The repository is expected to contain
+    ``01_annotations_preprocessed/chords`` before individual chord files are
+    inspected.
+    """
     assert CHORDS_DIR.exists(), f"chords folder not found: {CHORDS_DIR}"
 
 
 def test_chord_files_exist():
+    """Check that at least one chord CSV file is available.
+
+    Examples
+    --------
+    A repository with files such as ``chords/RWC-P/RWC_P001.csv`` is expected
+    to pass. An empty ``chords`` folder is expected to fail.
+    """
     assert CHORD_FILES, f"No chord files found under: {CHORDS_DIR}"
 
 
@@ -18,12 +33,18 @@ def test_chord_files_exist():
     "csv_path", CHORD_FILES, ids=lambda p: str(p.relative_to(CHORDS_DIR))
 )
 def test_chords_have_3_columns_and_nonempty(csv_path: Path):
-    """
-    Checks ONLY structure:
-    - readable with ';' separator
-    - exactly 3 columns
-    - at least 1 row
-    Works only with headers
+    """Check the basic CSV structure for one chord annotation file.
+
+    Parameters
+    ----------
+    csv_path
+        Chord CSV file under test.
+
+    Examples
+    --------
+    A semicolon-separated file with three columns such as ``t_start``,
+    ``t_end``, and ``chord`` and at least one data row is expected to pass.
+    A two-column file is expected to fail.
     """
     df = pd.read_csv(csv_path, sep=";")
 
@@ -35,6 +56,19 @@ def test_chords_have_3_columns_and_nonempty(csv_path: Path):
     "csv_path", CHORD_FILES, ids=lambda p: str(p.relative_to(CHORDS_DIR))
 )
 def test_chords_time_values_plausible(csv_path: Path):
+    """Check that chord time intervals are numeric, non-negative, and ordered.
+
+    Parameters
+    ----------
+    csv_path
+        Chord CSV file under test.
+
+    Examples
+    --------
+    A row with ``t_start == 1.0`` and ``t_end == 2.0`` is expected to pass.
+    Rows with negative times, non-numeric times, or ``t_end <= t_start`` are
+    expected to fail.
+    """
     df = pd.read_csv(csv_path, sep=";")  # <-- header is used
 
     # enforce column count (also enforces delimiter)
