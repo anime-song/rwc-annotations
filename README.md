@@ -69,6 +69,12 @@ The columns are:
 
 We use `pytest` to check for common errors in the annotations files. Simple tests check for formatting issues (e.g., check for the expected number of columns in the CSV), more advanced tests check for annotation errors (e.g., subsequent beats are wrongly numbered). These tests are running after each push to the repository.
 
+Run the test suite locally with:
+
+```bash
+uv run pytest
+```
+
 ## 📜 Bibliography
 
 We provide a list of central publications on the legacy of the RWC dataset.

@@ -6,7 +6,11 @@ import numpy as np
 MELODY_DIR = Path("01_annotations_preprocessed") / "melody"
 META_PATH = Path("metadata.csv")
 
-MELODY_FILES = sorted(MELODY_DIR.rglob("*.csv"))
+MELODY_FILES = sorted(
+    csv_path
+    for csv_path in MELODY_DIR.rglob("*.csv")
+    if csv_path.parent != MELODY_DIR
+)
 META = pd.read_csv(META_PATH, sep=";") if META_PATH.exists() else None
 
 

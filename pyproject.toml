@@ -1,0 +1,22 @@
+[project]
+name = "rwc-annotations"
+version = "0.1.0"
+description = "Curated annotations and integrity tests for the RWC 2.0 dataset."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "CC-BY-NC-4.0"
+dependencies = []
+
+[dependency-groups]
+test = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "pytest>=8.0",
+]
+
+[tool.uv]
+package = false
+default-groups = ["test"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
