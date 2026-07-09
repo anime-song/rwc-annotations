@@ -13,3 +13,36 @@ RWC_P004;MIDI_aligned;16;CHORUS;65;70;chorus_duplicates_melody;unresolved;CHORUS
 RWC_P004;MIDI_aligned;16;CHORUS;77;82;chorus_duplicates_melody;unresolved;CHORUS track duplicates the melody.
 RWC_P004;MIDI_aligned;16;CHORUS;44;45;missing_chorus_harmony;unresolved;CHORUS harmony is not transcribed.
 RWC_P004;MIDI_aligned;16;CHORUS;72;73;missing_chorus_harmony;unresolved;CHORUS harmony is not transcribed.
+RWC_P005;MIDI_aligned;5;CHO;16;17;chorus_octave_low_missing_upper_harmony;unresolved;CHORUS is one octave too low, and the upper harmony one octave above the original track around F4 is not transcribed.
+RWC_P005;MIDI_aligned;5;CHO;54;55;chorus_octave_low_missing_upper_harmony;unresolved;CHORUS is one octave too low, and the upper harmony one octave above the original track around F4 is not transcribed.
+RWC_P005;MIDI_aligned;5;CHO;18;19;spurious_chorus_harmony;unresolved;CHORUS track contains harmony that should not exist.
+RWC_P005;MIDI_aligned;5;CHO;20;20;chorus_octave_low_missing_upper_harmony;unresolved;CHORUS is one octave too low, and the upper harmony one octave above the original track around F4 is not transcribed.
+RWC_P005;MIDI_aligned;5;CHO;58;58;chorus_octave_low_missing_upper_harmony;unresolved;CHORUS is one octave too low, and the upper harmony one octave above the original track around F4 is not transcribed.
+RWC_P005;MIDI_aligned;5;CHO;21;21;chorus_lower_harmony_octave_low;unresolved;Two CHORUS harmonies are present, but the lower harmony is one octave too low.
+RWC_P005;MIDI_aligned;5;CHO;59;59;chorus_lower_harmony_octave_low;unresolved;Two CHORUS harmonies are present, but the lower harmony is one octave too low.
+RWC_P005;MIDI_aligned;5;CHO;22;27;spurious_chorus_harmony;unresolved;CHORUS track contains harmony that should not exist.
+RWC_P005;MIDI_aligned;5;CHO;60;65;spurious_chorus_harmony;unresolved;CHORUS track contains harmony that should not exist.
+RWC_P005;MIDI_aligned;4;MELODY;30;31;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;34;35;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;38;39;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;42;43;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;68;69;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;72;73;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;76;77;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;80;81;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;104;105;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;108;109;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;112;113;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;4;MELODY;116;117;melody_contains_lower_harmony;unresolved;Lower harmony part is written in the MELODY track.
+RWC_P005;MIDI_aligned;;;32;33;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;;;40;41;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;;;70;71;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;;;78;79;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;;;106;107;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;;;114;115;missing_vocal_harmony;unresolved;Harmony is not transcribed.
+RWC_P005;MIDI_aligned;4;MELODY;36;37;melody_octave_low;unresolved;MELODY track is one octave too low relative to the corrected MELODY reference.
+RWC_P005;MIDI_aligned;4;MELODY;74;75;melody_octave_low;unresolved;MELODY track is one octave too low relative to the corrected MELODY reference.
+RWC_P005;MIDI_aligned;4;MELODY;110;111;melody_octave_low;unresolved;MELODY track is one octave too low relative to the corrected MELODY reference.
+RWC_P005;MIDI_aligned;5;CHO;51;51;missing_chorus_harmony;unresolved;CHORUS harmony is not transcribed.
+RWC_P005;MIDI_aligned;4;MELODY;97;98;melody_contains_spurious_harmony;unresolved;MELODY track contains harmony, and the harmony does not actually exist.
+RWC_P005;MIDI_aligned;4;MELODY;101;102;melody_contains_spurious_harmony;unresolved;MELODY track contains harmony, and the harmony does not actually exist.
