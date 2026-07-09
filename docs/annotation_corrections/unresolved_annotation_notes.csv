@@ -1,2 +1,3 @@
 RWCID;AnnotationType;StartMeasure;EndMeasure;IssueType;Status;Note
+RWC_P001;MIDI_aligned;6;;missing_vocal_harmony;unresolved;Vocal harmony is not transcribed from measure 6 onward.
 RWC_P003;MIDI_aligned;61;;missing_vocal_harmony;unresolved;Vocal harmony is not transcribed from measure 61 onward.
