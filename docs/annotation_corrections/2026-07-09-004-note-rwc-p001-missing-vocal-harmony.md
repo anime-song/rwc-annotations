@@ -23,7 +23,7 @@ No MIDI or preprocessed annotation file was changed for this note.
 The observation was added to `unresolved_annotation_notes.csv` as:
 
 ```text
-RWC_P001;MIDI_aligned;6;;missing_vocal_harmony;unresolved;Vocal harmony is not transcribed from measure 6 onward.
+RWC_P001;MIDI_aligned;;;6;;missing_vocal_harmony;unresolved;Vocal harmony is not transcribed from measure 6 onward.
 ```
 
 ## Validation
