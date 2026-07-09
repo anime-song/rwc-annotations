@@ -117,3 +117,5 @@ MANIFEST
 # Temporary files and backups
 *.bak
 *~
+
+AGENTS.md
