@@ -12,7 +12,7 @@ Status: validated
 - Output files:
   - `01_annotations_preprocessed/MIDI_aligned/RWC-*/RWC_*.mid`
 - Script:
-  - `scripts/annotation_corrections/apply_all.py`
+  - `scripts/annotation_corrections/001_shift_blank_comment_vocals.py`
 
 ## Problem
 
@@ -48,7 +48,7 @@ For each blank-comment row in `metadata_mapping_vocals.csv`:
 
 ## Implementation
 
-The script refreshes `01_annotations_preprocessed/` from `00_annotations_original/`, reads the original vocal mapping CSV, validates that the mapped track name matches the target MIDI track, then rewrites only the target track note numbers.
+The correction module `001_shift_blank_comment_vocals.py` reads the original vocal mapping CSV, validates that the mapped track name matches the target MIDI track, then rewrites only the target track note numbers. It is invoked through `scripts/annotation_corrections/apply_all.py`, which refreshes `01_annotations_preprocessed/` from `00_annotations_original/` before applying correction modules.
 
 ```powershell
 python scripts\annotation_corrections\apply_all.py
