@@ -6,3 +6,10 @@ RWC_P002;MIDI_aligned;15;CHORUS;9;11;chorus_unison_octave_error;unresolved;CHORU
 RWC_P002;MIDI_aligned;15;CHORUS;52;54;chorus_unison_octave_error;unresolved;CHORUS track unison octave is one octave too low, duplicates the melody, and includes an unnecessary upper octave.
 RWC_P002;MIDI_aligned;15;CHORUS;83;85;chorus_unison_octave_error;unresolved;CHORUS track unison octave is one octave too low, duplicates the melody, and includes an unnecessary upper octave.
 RWC_P002;MIDI_aligned;15;CHORUS;87;89;chorus_unison_octave_error;unresolved;CHORUS track unison octave is one octave too low, duplicates the melody, and includes an unnecessary upper octave.
+RWC_P004;MIDI_aligned;16;CHORUS;9;14;chorus_duplicates_melody;unresolved;CHORUS track duplicates the melody.
+RWC_P004;MIDI_aligned;16;CHORUS;16;17;chorus_octave_ambiguous;unresolved;CHORUS track is one octave above, but it is difficult to determine whether the vocal or chorus should be higher.
+RWC_P004;MIDI_aligned;16;CHORUS;37;42;chorus_duplicates_melody;unresolved;CHORUS track duplicates the melody.
+RWC_P004;MIDI_aligned;16;CHORUS;65;70;chorus_duplicates_melody;unresolved;CHORUS track duplicates the melody.
+RWC_P004;MIDI_aligned;16;CHORUS;77;82;chorus_duplicates_melody;unresolved;CHORUS track duplicates the melody.
+RWC_P004;MIDI_aligned;16;CHORUS;44;45;missing_chorus_harmony;unresolved;CHORUS harmony is not transcribed.
+RWC_P004;MIDI_aligned;16;CHORUS;72;73;missing_chorus_harmony;unresolved;CHORUS harmony is not transcribed.
